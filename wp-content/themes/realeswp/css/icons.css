@@ -1,0 +1,57 @@
+.mce-window .mce-container-body.mce-abs-layout {
+    overflow: auto !important;
+}
+.mce-window .mce-container-body.mce-abs-layout {
+    overflow-x: hidden !important;
+}
+.mce-window .mce-formitem .mce-container-body.mce-abs-layout,
+.mce-window .mce-foot .mce-container-body.mce-abs-layout {
+    overflow: visible !important;
+}
+
+.mce-i-fa {
+    font-family: FontAwesome !important;
+    line-height: 18px !important;
+    font-size: 14px !important;
+}
+
+.mce-i-sli {
+    font-family: 'Simple-Line-Icons' !important;
+    line-height: 18px !important;
+    font-size: 14px !important;
+}
+
+.mce-i-column {
+    width: 69px !important;
+    height: 18px !important;
+}
+.mce-i-column.one-half {
+    background: transparent url(../images/icons/one-half.png) top left  no-repeat;
+}
+.mce-i-column.one-half-last {
+    background: transparent url(../images/icons/one-half-last.png) top left  no-repeat;
+}
+.mce-i-column.one-third {
+    background: transparent url(../images/icons/one-third.png) top left  no-repeat;
+}
+.mce-i-column.one-third-last {
+    background: transparent url(../images/icons/one-third-last.png) top left  no-repeat;
+}
+.mce-i-column.one-fourth {
+    background: transparent url(../images/icons/one-fourth.png) top left  no-repeat;
+}
+.mce-i-column.one-fourth-last {
+    background: transparent url(../images/icons/one-fourth-last.png) top left  no-repeat;
+}
+.mce-i-column.two-third {
+    background: transparent url(../images/icons/two-third.png) top left  no-repeat;
+}
+.mce-i-column.two-third-last {
+    background: transparent url(../images/icons/two-third-last.png) top left  no-repeat;
+}
+.mce-i-column.three-fourth {
+    background: transparent url(../images/icons/three-fourth.png) top left  no-repeat;
+}
+.mce-i-column.three-fourth-last {
+    background: transparent url(../images/icons/three-fourth-last.png) top left  no-repeat;
+}

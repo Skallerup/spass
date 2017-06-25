@@ -1,0 +1,67 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">property</custom-type>
+        <custom-type translate="1">agent</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">membership</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">property_category</taxonomy>
+        <taxonomy translate="1">property_type_category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">agent_about</custom-field>
+        <custom-field action="translate">agent_specs</custom-field>
+        <custom-field action="copy">agent_email</custom-field>
+        <custom-field action="copy">agent_phone</custom-field>
+        <custom-field action="copy">agent_mobile</custom-field>
+        <custom-field action="copy">agent_skype</custom-field>
+        <custom-field action="copy">agent_facebook</custom-field>
+        <custom-field action="copy">agent_twitter</custom-field>
+        <custom-field action="copy">agent_google</custom-field>
+        <custom-field action="copy">agent_linkedin</custom-field>
+        <custom-field action="copy">agent_avatar</custom-field>
+        <custom-field action="copy">agent_featured</custom-field>
+        <custom-field action="translate">property_description</custom-field>
+        <custom-field action="copy">property_city</custom-field>
+        <custom-field action="copy">property_lat</custom-field>
+        <custom-field action="copy">property_lng</custom-field>
+        <custom-field action="translate">property_address</custom-field>
+        <custom-field action="copy">property_state</custom-field>
+        <custom-field action="copy">property_zip</custom-field>
+        <custom-field action="copy">property_country</custom-field>
+        <custom-field action="copy">property_price</custom-field>
+        <custom-field action="translate">property_price_label</custom-field>
+        <custom-field action="copy">property_area</custom-field>
+        <custom-field action="copy">property_bedrooms</custom-field>
+        <custom-field action="copy">property_bathrooms</custom-field>
+        <custom-field action="copy">property_agent</custom-field>
+        <custom-field action="copy">property_gallery</custom-field>
+        <custom-field action="copy">property_featured</custom-field>
+        <custom-field action="copy">property_neighborhood</custom-field>
+        <custom-field action="copy">property_fav</custom-field>
+        <custom-field action="translate">testimonials_text</custom-field>
+        <custom-field action="copy">testimonials_avatar</custom-field>
+        <custom-field action="copy">property_plans</custom-field>w
+        <custom-field action="copy">property_video_source</custom-field>
+        <custom-field action="copy">property_video_id</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="reales_appearance_settings">
+            <key name="reales_home_caption_title_field"/>
+            <key name="reales_home_caption_subtitle_field"/>
+            <key name="reales_home_caption_cta_text_field"/>
+            <key name="reales_home_caption_cta_link_field"/>
+            <key name="reales_home_spotlight_title_field"/>
+            <key name="reales_home_spotlight_text_field"/>
+            <key name="reales_copyright_field"/>
+        </key>
+        <key name="reales_contact_settings">
+            <key name="reales_company_name_field"/>
+            <key name="reales_company_address_field"/>
+        </key>
+        <key name="reales_amenity_settings"></key>
+        <key name="reales_fields_settings"></key>
+        <key name="reales_slider_settings"></key>
+    </admin-texts>
+</wpml-config>

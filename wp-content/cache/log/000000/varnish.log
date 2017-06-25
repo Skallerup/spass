@@ -1,0 +1,12 @@
+[Fri, 09 Oct 2015 19:25:10 +0000] [http://spotium.dk/.*] Connecting to  ...
+[Fri, 09 Oct 2015 19:25:10 +0000] [http://spotium.dk/.*] PURGE /.* HTTP/1.1
+[Fri, 09 Oct 2015 19:25:10 +0000] [http://spotium.dk/.*] Host: spotium.dk
+[Fri, 09 Oct 2015 19:25:10 +0000] [http://spotium.dk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Fri, 09 Oct 2015 19:27:52 +0000] [http://spotium.dk/.*] Connecting to  ...
+[Fri, 09 Oct 2015 19:27:52 +0000] [http://spotium.dk/.*] PURGE /.* HTTP/1.1
+[Fri, 09 Oct 2015 19:27:52 +0000] [http://spotium.dk/.*] Host: spotium.dk
+[Fri, 09 Oct 2015 19:27:52 +0000] [http://spotium.dk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Fri, 09 Oct 2015 19:36:23 +0000] [http://spotium.dk/.*] Connecting to  ...
+[Fri, 09 Oct 2015 19:36:23 +0000] [http://spotium.dk/.*] PURGE /.* HTTP/1.1
+[Fri, 09 Oct 2015 19:36:23 +0000] [http://spotium.dk/.*] Host: spotium.dk
+[Fri, 09 Oct 2015 19:36:23 +0000] [http://spotium.dk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.

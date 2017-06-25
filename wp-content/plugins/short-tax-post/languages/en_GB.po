@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: reales\n"
+"POT-Creation-Date: 2016-07-03 18:24+0300\n"
+"PO-Revision-Date: 2016-07-03 18:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+"X-Poedit-SearchPathExcluded-2: css\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+
+#: libs/custom_post_types/agent.php:13 libs/custom_post_types/agent.php:208
+#: libs/custom_post_types/property.php:28
+#: libs/custom_post_types/testimonials.php:13
+#: libs/custom_post_types/testimonials.php:82
+msgid "Browse..."
+msgstr ""
+
+#: libs/custom_post_types/agent.php:24
+msgid "Agents"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:25 libs/custom_post_types/property.php:120
+msgid "Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:26
+msgid "Add New Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:27
+msgid "Add Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:28 libs/custom_post_types/invoice.php:20
+#: libs/custom_post_types/membership.php:21
+#: libs/custom_post_types/property.php:50
+#: libs/custom_post_types/testimonials.php:28
+msgid "Edit"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:29
+msgid "Edit Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:30
+msgid "New Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:31 libs/custom_post_types/invoice.php:23
+#: libs/custom_post_types/membership.php:24
+#: libs/custom_post_types/property.php:53
+#: libs/custom_post_types/testimonials.php:31
+msgid "View"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:32
+msgid "View Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:33
+msgid "Search Agents"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:34
+msgid "No Agents found"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:35
+msgid "No Agents found in Trash"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:36
+msgid "Parent Agent"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:53 libs/custom_post_types/invoice.php:45
+#: libs/custom_post_types/property.php:116
+msgid "Details"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:54
+msgid "Membership and Payment"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:55
+#: libs/custom_post_types/testimonials.php:55
+msgid "Avatar"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:56
+msgid "User"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:57 libs/custom_post_types/property.php:123
+msgid "Featured"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:69
+msgid "Agency"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:70
+msgid "Enter the agency name"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:75
+msgid "Specialities"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:76
+msgid "Enter specialities"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:81
+msgid "Email"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:82
+msgid "Enter email"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:91
+msgid "Phone"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:92 libs/custom_post_types/agent.php:98
+msgid "Enter phone"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:97
+msgid "Mobile"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:103
+msgid "Skype"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:104
+msgid "Enter Skype ID"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:113
+msgid "Facebook"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:114
+msgid "Enter Facebook profile URL"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:119
+msgid "Twitter"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:120
+msgid "Enter Twitter profile URL"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:127
+msgid "Google+"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:128
+msgid "Enter Google+ profile URL"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:133
+msgid "LinkedIn"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:134
+msgid "Enter LinkedIn profile URL"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:156
+msgid "Allow the agent to post properties regardless of payment method"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:158
+msgid "Payment type is disabled."
+msgstr ""
+
+#: libs/custom_post_types/agent.php:190
+msgid "Assign a User"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:227 libs/custom_post_types/property.php:515
+msgid "Set as Featured"
+msgstr ""
+
+#: libs/custom_post_types/agent.php:295
+msgid "Enter agent name here"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:16
+msgid "Invoices"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:17
+msgid "Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:18
+msgid "Add New Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:19
+msgid "Add Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:21
+msgid "Edit Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:22
+msgid "New Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:24
+msgid "View Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:25
+msgid "Search Invoices"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:26
+msgid "No Invoices found"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:27
+msgid "No Invoices found in Trash"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:28
+msgid "Parent Invoice"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:57
+msgid "Invoice ID"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:66 libs/custom_post_types/invoice.php:186
+msgid "Item Type"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:73
+msgid "Item ID"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:74
+msgid "Enter Item ID"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:83
+msgid "Item Price"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:84
+msgid "Enter Item Price"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:89
+msgid "Agent ID"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:90
+msgid "Enter Agent ID"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:228
+#: libs/custom_post_types/property.php:242
+msgid "Price"
+msgstr ""
+
+#: libs/custom_post_types/invoice.php:270
+msgid "Purchased By"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:17
+msgid "Membership Plans"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:18
+msgid "Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:19
+msgid "Add New Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:20
+msgid "Add Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:22
+msgid "Edit Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:23
+msgid "New Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:25
+msgid "View Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:26
+msgid "Search Membership Plans"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:27
+msgid "No Membership Plans found"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:28
+msgid "No Membership Plans found in Trash"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:29
+msgid "Parent Membership Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:50
+msgid "Membership Plan Features"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:67
+msgid "Membership Plan Period"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:68
+msgid "Enter number of..."
+msgstr ""
+
+#: libs/custom_post_types/membership.php:77
+msgid "Days"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:80
+msgid "Weeks"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:83
+msgid "Months"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:86
+msgid "Years"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:95
+msgid "Number of Submissions"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:96
+msgid "Enter the number of submissions"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:107
+msgid "Unlimited Submissions"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:115
+msgid "Number of Featured Submissions"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:116
+msgid "Enter the number of featured submissions"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:125
+msgid "Plan Price"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:126
+msgid "Enter the plan price"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:137
+msgid "Free Plan"
+msgstr ""
+
+#: libs/custom_post_types/membership.php:185
+msgid "Enter membership plan title here"
+msgstr ""
+
+#: libs/custom_post_types/property.php:29
+#: libs/custom_post_types/property.php:378
+#: libs/custom_post_types/property.php:490
+msgid "Delete"
+msgstr ""
+
+#: libs/custom_post_types/property.php:30
+msgid "Property photo gallery"
+msgstr ""
+
+#: libs/custom_post_types/property.php:31
+msgid "Insert Photos"
+msgstr ""
+
+#: libs/custom_post_types/property.php:32
+msgid "Property floor plans"
+msgstr ""
+
+#: libs/custom_post_types/property.php:33
+msgid "Insert Plans"
+msgstr ""
+
+#: libs/custom_post_types/property.php:46
+msgid "Properties"
+msgstr ""
+
+#: libs/custom_post_types/property.php:47
+msgid "Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:48
+msgid "Add New Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:49
+msgid "Add Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:51
+msgid "Edit Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:52
+msgid "New Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:54
+msgid "View Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:55
+msgid "Search Properties"
+msgstr ""
+
+#: libs/custom_post_types/property.php:56
+msgid "No Properties found"
+msgstr ""
+
+#: libs/custom_post_types/property.php:57
+msgid "No Properties found in Trash"
+msgstr ""
+
+#: libs/custom_post_types/property.php:58
+msgid "Parent Property"
+msgstr ""
+
+#: libs/custom_post_types/property.php:74
+msgid "Property Categories"
+msgstr ""
+
+#: libs/custom_post_types/property.php:75
+msgid "Add New Property Category"
+msgstr ""
+
+#: libs/custom_post_types/property.php:76
+msgid "New Property Category"
+msgstr ""
+
+#: libs/custom_post_types/property.php:86
+msgid "Property Types"
+msgstr ""
+
+#: libs/custom_post_types/property.php:87
+msgid "Add New Property Type"
+msgstr ""
+
+#: libs/custom_post_types/property.php:88
+msgid "New Property Type"
+msgstr ""
+
+#: libs/custom_post_types/property.php:115
+msgid "Location"
+msgstr ""
+
+#: libs/custom_post_types/property.php:117
+msgid "Additional Information"
+msgstr ""
+
+#: libs/custom_post_types/property.php:118
+msgid "Amenities"
+msgstr ""
+
+#: libs/custom_post_types/property.php:119
+msgid "Floor Plans"
+msgstr ""
+
+#: libs/custom_post_types/property.php:121
+msgid "Video"
+msgstr ""
+
+#: libs/custom_post_types/property.php:122
+msgid "Photo Gallery"
+msgstr ""
+
+#: libs/custom_post_types/property.php:136
+msgid "City"
+msgstr ""
+
+#: libs/custom_post_types/property.php:145
+msgid "Select a city"
+msgstr ""
+
+#: libs/custom_post_types/property.php:158
+msgid "Enter a city name"
+msgstr ""
+
+#: libs/custom_post_types/property.php:165
+msgid "Latitude"
+msgstr ""
+
+#: libs/custom_post_types/property.php:171
+msgid "Longitude"
+msgstr ""
+
+#: libs/custom_post_types/property.php:188
+msgid "Address"
+msgstr ""
+
+#: libs/custom_post_types/property.php:189
+msgid "Enter address"
+msgstr ""
+
+#: libs/custom_post_types/property.php:190
+msgid "Place pin by address"
+msgstr ""
+
+#: libs/custom_post_types/property.php:195
+msgid "County/State"
+msgstr ""
+
+#: libs/custom_post_types/property.php:196
+msgid "Enter county/state"
+msgstr ""
+
+#: libs/custom_post_types/property.php:201
+msgid "Neighborhood"
+msgstr ""
+
+#: libs/custom_post_types/property.php:202
+msgid "Enter neighborhood"
+msgstr ""
+
+#: libs/custom_post_types/property.php:211
+msgid "Zip Code"
+msgstr ""
+
+#: libs/custom_post_types/property.php:212
+msgid "Enter zip code"
+msgstr ""
+
+#: libs/custom_post_types/property.php:217
+msgid "Country"
+msgstr ""
+
+#: libs/custom_post_types/property.php:243
+msgid "Enter price"
+msgstr ""
+
+#: libs/custom_post_types/property.php:248
+msgid "Price Label (e.g. \"per month\")"
+msgstr ""
+
+#: libs/custom_post_types/property.php:249
+msgid "Enter price label"
+msgstr ""
+
+#: libs/custom_post_types/property.php:254
+msgid "Area"
+msgstr ""
+
+#: libs/custom_post_types/property.php:255
+msgid "Enter area"
+msgstr ""
+
+#: libs/custom_post_types/property.php:262
+#: libs/shortcodes/single_property.php:122
+msgid "Bedrooms"
+msgstr ""
+
+#: libs/custom_post_types/property.php:263
+msgid "Enter number of bedrooms"
+msgstr ""
+
+#: libs/custom_post_types/property.php:268
+#: libs/shortcodes/single_property.php:125
+msgid "Bathrooms"
+msgstr ""
+
+#: libs/custom_post_types/property.php:269
+msgid "Enter number of bathrooms"
+msgstr ""
+
+#: libs/custom_post_types/property.php:301
+msgid "Select"
+msgstr ""
+
+#: libs/custom_post_types/property.php:322
+msgid "No addtional information fields defined"
+msgstr ""
+
+#: libs/custom_post_types/property.php:360
+msgid "No amenities defined"
+msgstr ""
+
+#: libs/custom_post_types/property.php:384
+msgid "Add plan image"
+msgstr ""
+
+#: libs/custom_post_types/property.php:423
+msgid "Assign an Agent"
+msgstr ""
+
+#: libs/custom_post_types/property.php:442
+#: libs/custom_post_types/property.php:446
+#: libs/custom_post_types/property.php:450
+msgid "youtube"
+msgstr ""
+
+#: libs/custom_post_types/property.php:443
+#: libs/custom_post_types/property.php:447
+#: libs/custom_post_types/property.php:451
+msgid "vimeo"
+msgstr ""
+
+#: libs/custom_post_types/property.php:459
+msgid "Video source"
+msgstr ""
+
+#: libs/custom_post_types/property.php:467
+msgid "Video ID"
+msgstr ""
+
+#: libs/custom_post_types/property.php:468
+msgid "Enter video ID"
+msgstr ""
+
+#: libs/custom_post_types/property.php:496
+msgid "Add photo"
+msgstr ""
+
+#: libs/custom_post_types/property.php:651
+msgid "Enter property title here"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:24
+msgid "Testimonials"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:25
+msgid "Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:26
+msgid "Add New Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:27
+msgid "Add Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:29
+msgid "Edit Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:30
+msgid "New Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:32
+msgid "View Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:33
+msgid "Search Testimonials"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:34
+msgid "No Testimonials found"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:35
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:36
+msgid "Parent Testimonial"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:54
+msgid "What the customer says"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:68
+msgid "Enter what the customer says here"
+msgstr ""
+
+#: libs/custom_post_types/testimonials.php:110
+msgid "Enter customer name here"
+msgstr ""
+
+#: libs/shortcodes/featured_posts.php:55 libs/shortcodes/latest_posts.php:50
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:39
+msgid "days"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:41
+msgid "weeks"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:43
+msgid "months"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:45
+msgid "years"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:61
+msgid "Unlimited Listings"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:63
+msgid "Listings"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:65
+msgid "Featured Listings"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:96
+msgid "Choose a membership plan"
+msgstr ""
+
+#: libs/shortcodes/membership_plans.php:98
+#: libs/shortcodes/membership_plans.php:101
+msgid "Get started now"
+msgstr ""
+
+#: libs/shortcodes/single_property.php:118
+msgid "View Details"
+msgstr ""

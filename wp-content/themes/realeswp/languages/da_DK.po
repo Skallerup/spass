@@ -1,0 +1,4349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RealesWP v1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-02 02:10+0200\n"
+"PO-Revision-Date: 2017-03-12 21:39:56+0000\n"
+"Last-Translator: skallerup <skallerup@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ reales
+msgid "Sorry, we have a broken link!"
+msgstr "Beklager, vi har et ufundet link"
+
+#: 404.php:16
+#@ reales
+msgid "The page you are looking for was moved, removed, renamed, or might never existed."
+msgstr "Denne side du kigger efter er flyttet, fjernet eller findes måske ikke."
+
+#: 404.php:17
+#@ reales
+msgid "Go Home"
+msgstr "Til forsiden"
+
+#: admin/sections/amenities.php:9
+#: admin/sections/filter_fields.php:21
+#: admin/settings.php:217
+#: libs/properties.php:1045
+#: single-property.php:432
+#: submit-property.php:505
+#: templates/filter_properties.php:304
+#@ reales
+msgid "Amenities"
+msgstr "Faciliteter"
+
+#: admin/sections/amenities.php:55
+#@ reales
+msgid "Amenities List"
+msgstr "Faciliteter liste"
+
+#: admin/sections/appearance.php:9
+#: admin/settings.php:192
+#@ reales
+msgid "Appearance"
+msgstr "Udsende"
+
+#: admin/sections/appearance.php:10
+#@ reales
+msgid "Show user menu in header"
+msgstr "Vis bruger i toppen"
+
+#: admin/sections/appearance.php:11
+#@ reales
+msgid "Homepage header type"
+msgstr ""
+
+#: admin/sections/appearance.php:13
+#@ reales
+msgid "Slider Revolution alias"
+msgstr ""
+
+#: admin/sections/appearance.php:14
+#@ reales
+msgid "Homepage header video (mp4)"
+msgstr ""
+
+#: admin/sections/appearance.php:15
+#@ reales
+msgid "Header image shadow opacity"
+msgstr ""
+
+#: admin/sections/appearance.php:16
+#@ reales
+msgid "Show homepage caption"
+msgstr ""
+
+#: admin/sections/appearance.php:17
+#@ reales
+msgid "Homepage caption title"
+msgstr ""
+
+#: admin/sections/appearance.php:18
+#@ reales
+msgid "Homepage caption subtitle"
+msgstr ""
+
+#: admin/sections/appearance.php:19
+#@ reales
+msgid "Show homepage caption cta button"
+msgstr ""
+
+#: admin/sections/appearance.php:20
+#@ reales
+msgid "Homepage caption cta button text"
+msgstr ""
+
+#: admin/sections/appearance.php:21
+#@ reales
+msgid "Homepage caption cta button link"
+msgstr ""
+
+#: admin/sections/appearance.php:22
+#@ reales
+msgid "Show homepage spotlight section"
+msgstr ""
+
+#: admin/sections/appearance.php:23
+#@ reales
+msgid "Homepage spotlight section title"
+msgstr ""
+
+#: admin/sections/appearance.php:24
+#@ reales
+msgid "Homepage spotlight section text"
+msgstr ""
+
+#: admin/sections/appearance.php:25
+#@ reales
+msgid "Sidebar position"
+msgstr "Sidebar placering"
+
+#: admin/sections/appearance.php:27
+#@ reales
+msgid "Show related articles on blog post"
+msgstr "Vis relateret artikler på blogindlægende"
+
+#: admin/sections/appearance.php:28
+#@ reales
+msgid "Show left side menu in app view"
+msgstr ""
+
+#: admin/sections/appearance.php:29
+#@ reales
+msgid "Number of properties per page"
+msgstr "Antal lokaler pr. side"
+
+#: admin/sections/appearance.php:30
+#@ reales
+msgid "Show similar properties on property page"
+msgstr "Vis lignende lokaler på lokalesiden"
+
+#: admin/sections/appearance.php:31
+#@ reales
+msgid "Show breadcrumbs on pages"
+msgstr "Vi brødkrummesti på sider"
+
+#: admin/sections/appearance.php:32
+#@ reales
+msgid "Copyright text"
+msgstr "Copyright tekst"
+
+#: admin/sections/appearance.php:100
+#: admin/sections/general.php:39
+#: admin/sections/general.php:49
+#: admin/sections/general.php:59
+#: admin/sections/slider.php:31
+#@ reales
+msgid "Browse..."
+msgstr ""
+
+#: admin/sections/auth.php:10
+#: admin/settings.php:242
+#@ reales
+msgid "Authentication"
+msgstr "Godkendelse"
+
+#: admin/sections/auth.php:11
+#@ reales
+msgid "Allow Facebook Login"
+msgstr "Tillad Facebook login"
+
+#: admin/sections/auth.php:12
+#@ reales
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/sections/auth.php:13
+#@ reales
+msgid "Facebook App Secret"
+msgstr ""
+
+#: admin/sections/auth.php:14
+#@ reales
+msgid "Allow Google Signin"
+msgstr ""
+
+#: admin/sections/auth.php:15
+#@ reales
+msgid "Google Client ID"
+msgstr ""
+
+#: admin/sections/auth.php:16
+#@ reales
+msgid "Google Client Secret"
+msgstr ""
+
+#: admin/sections/auth.php:17
+#@ reales
+msgid "Allow users to register as agents"
+msgstr "Tillad brugere at registere sig som udlejer"
+
+#: admin/sections/captcha.php:9
+#: admin/settings.php:247
+#@ reales
+msgid "reCAPTCHA"
+msgstr ""
+
+#: admin/sections/captcha.php:10
+#@ reales
+msgid "Site Key"
+msgstr ""
+
+#: admin/sections/captcha.php:11
+#@ reales
+msgid "Secret Key"
+msgstr ""
+
+#: admin/sections/captcha.php:12
+#@ reales
+msgid "Show reCAPTCHA in contact forms"
+msgstr ""
+
+#: admin/sections/captcha.php:13
+#@ reales
+msgid "Show reCAPTCHA in submit property form"
+msgstr ""
+
+#: admin/sections/captcha.php:19
+#@ reales
+msgid "reCAPTCHA is a free service to protect your website from spam and abuse. For using it, you need a <b>Site Key</b> and a <b>Secret Key</b> that you can get from "
+msgstr ""
+
+#: admin/sections/captcha.php:19
+#@ reales
+msgid "here"
+msgstr "her"
+
+#: admin/sections/colors.php:9
+#: admin/settings.php:207
+#@ reales
+msgid "Colors"
+msgstr "Farver"
+
+#: admin/sections/colors.php:10
+#@ reales
+msgid "Main color"
+msgstr "Grund farve"
+
+#: admin/sections/colors.php:11
+#@ reales
+msgid "Main color dark"
+msgstr "Hoved farve mørk"
+
+#: admin/sections/colors.php:12
+#@ reales
+msgid "App sidebar background color"
+msgstr "App baggrundsfarve"
+
+#: admin/sections/colors.php:13
+#@ reales
+msgid "App sidebar menu item active background color"
+msgstr ""
+
+#: admin/sections/colors.php:14
+#@ reales
+msgid "App sidebar submenu background color"
+msgstr ""
+
+#: admin/sections/colors.php:15
+#@ reales
+msgid "App sidebar submenu item active background color"
+msgstr ""
+
+#: admin/sections/colors.php:16
+#@ reales
+msgid "App sidebar menu text color"
+msgstr ""
+
+#: admin/sections/colors.php:17
+#@ reales
+msgid "App sidebar submenu text color"
+msgstr ""
+
+#: admin/sections/colors.php:18
+#@ reales
+msgid "Mobile view header icons active color"
+msgstr ""
+
+#: admin/sections/colors.php:19
+#@ reales
+msgid "Footer background color"
+msgstr ""
+
+#: admin/sections/colors.php:20
+#@ reales
+msgid "Footer headers text color"
+msgstr ""
+
+#: admin/sections/colors.php:21
+#@ reales
+msgid "Property type badge background color"
+msgstr ""
+
+#: admin/sections/colors.php:22
+#@ reales
+msgid "Property featured badge background color"
+msgstr ""
+
+#: admin/sections/colors.php:23
+#@ reales
+msgid "Favourite icon color"
+msgstr ""
+
+#: admin/sections/colors.php:24
+#@ reales
+msgid "Map markers color"
+msgstr ""
+
+#: admin/sections/colors.php:25
+#@ reales
+msgid "Property pending badge background color"
+msgstr ""
+
+#: admin/sections/contact.php:9
+#: admin/settings.php:187
+#: single-agent.php:160
+#@ reales
+msgid "Contact"
+msgstr "Kontakt"
+
+#: admin/sections/contact.php:10
+#@ reales
+msgid "Company Name"
+msgstr "Firma navn"
+
+#: admin/sections/contact.php:11
+#: user-account.php:122
+#@ reales
+msgid "E-mail"
+msgstr ""
+
+#: admin/sections/contact.php:12
+#: libs/properties.php:1114
+#: libs/widgets/contact_widget.php:31
+#: single-agent.php:89
+#: single-agent.php:178
+#: single-property.php:578
+#: user-account.php:179
+#@ reales
+msgid "Phone"
+msgstr "Mobil"
+
+#: admin/sections/contact.php:13
+#: libs/properties.php:1115
+#: single-agent.php:95
+#: user-account.php:185
+#@ reales
+msgid "Mobile"
+msgstr "Mobil"
+
+#: admin/sections/contact.php:14
+#: libs/properties.php:1116
+#: single-agent.php:107
+#: user-account.php:191
+#@ reales
+msgid "Skype"
+msgstr ""
+
+#: admin/sections/contact.php:15
+#: admin/sections/property_fields.php:17
+#: libs/properties.php:993
+#: libs/widgets/contact_widget.php:35
+#: submit-property.php:361
+#@ reales
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/sections/contact.php:16
+#: libs/widgets/social_widget.php:30
+#@ reales
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/sections/contact.php:17
+#: libs/widgets/social_widget.php:34
+#@ reales
+msgid "Twitter Link"
+msgstr ""
+
+#: admin/sections/contact.php:18
+#: libs/widgets/social_widget.php:38
+#@ reales
+msgid "Google+ Link"
+msgstr ""
+
+#: admin/sections/contact.php:19
+#: libs/widgets/social_widget.php:42
+#@ reales
+msgid "LinkedIn Link"
+msgstr ""
+
+#: admin/sections/custom_fields.php:9
+#@ reales
+msgid "Property Custom Fileds"
+msgstr "Lokale egenskaber"
+
+#: admin/sections/custom_fields.php:17
+#@ reales
+msgid "Add New Custom Filed"
+msgstr ""
+
+#: admin/sections/amenities.php:59
+#: admin/sections/custom_fields.php:21
+#: admin/sections/custom_fields.php:88
+#@ reales
+msgid "Field name"
+msgstr ""
+
+#: admin/sections/custom_fields.php:27
+#: admin/sections/custom_fields.php:89
+#@ reales
+msgid "Field label"
+msgstr ""
+
+#: admin/sections/custom_fields.php:33
+#: admin/sections/custom_fields.php:90
+#@ reales
+msgid "Field type"
+msgstr ""
+
+#: admin/sections/custom_fields.php:36
+#: admin/sections/custom_fields.php:118
+#: admin/settings.php:36
+#@ reales
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/sections/custom_fields.php:37
+#: admin/sections/custom_fields.php:124
+#: admin/settings.php:37
+#@ reales
+msgid "Numeric"
+msgstr "Numeriske"
+
+#: admin/sections/custom_fields.php:38
+#: admin/sections/custom_fields.php:130
+#: admin/settings.php:38
+#@ reales
+msgid "Date"
+msgstr "Dato"
+
+#: admin/sections/custom_fields.php:39
+#: admin/sections/custom_fields.php:136
+#: admin/settings.php:39
+#@ reales
+msgid "List"
+msgstr ""
+
+#: admin/sections/custom_fields.php:42
+#@ reales
+msgid "Enter the list values separated by comma."
+msgstr ""
+
+#: admin/sections/custom_fields.php:46
+#: admin/sections/custom_fields.php:91
+#@ reales
+msgid "Mandatory"
+msgstr ""
+
+#: admin/sections/custom_fields.php:49
+#: admin/sections/custom_fields.php:64
+#: admin/sections/custom_fields.php:152
+#: admin/sections/custom_fields.php:173
+#: admin/settings.php:40
+#@ reales
+msgid "No"
+msgstr "Nej"
+
+#: admin/sections/custom_fields.php:50
+#: admin/sections/custom_fields.php:65
+#: admin/sections/custom_fields.php:158
+#: admin/sections/custom_fields.php:179
+#: admin/settings.php:41
+#@ reales
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/sections/amenities.php:46
+#: admin/sections/amenities.php:62
+#: admin/sections/cities.php:36
+#: admin/sections/cities.php:51
+#: admin/sections/custom_fields.php:55
+#: admin/sections/custom_fields.php:92
+#: admin/sections/slider.php:59
+#: admin/sections/slider.php:74
+#@ reales
+msgid "Position"
+msgstr ""
+
+#: admin/sections/custom_fields.php:82
+#@ reales
+msgid "Add Field"
+msgstr ""
+
+#: admin/sections/custom_fields.php:84
+#@ reales
+msgid "Custom Fields List"
+msgstr ""
+
+#: admin/sections/amenities.php:85
+#: admin/sections/cities.php:65
+#: admin/sections/custom_fields.php:214
+#: admin/sections/slider.php:95
+#: admin/settings.php:42
+#@ reales
+msgid "Delete"
+msgstr "Slet"
+
+#: admin/sections/custom_fields.php:236
+#@ reales
+msgid "Field name is mandatory."
+msgstr ""
+
+#: admin/sections/custom_fields.php:240
+#@ reales
+msgid "Field label is mandatory."
+msgstr ""
+
+#: admin/sections/custom_fields.php:244
+#@ reales
+msgid "Field type is mandatory."
+msgstr ""
+
+#: admin/sections/custom_fields.php:248
+#@ reales
+msgid "The list requires at least one element."
+msgstr ""
+
+#: admin/sections/amenities.php:115
+#: admin/sections/cities.php:90
+#: admin/sections/custom_fields.php:252
+#: admin/sections/slider.php:121
+#@ reales
+msgid "Position is mandatory."
+msgstr ""
+
+#: admin/sections/filter_fields.php:9
+#: admin/settings.php:237
+#@ reales
+msgid "Filter Area Fields"
+msgstr ""
+
+#: admin/sections/filter_fields.php:11
+#: admin/sections/general.php:13
+#: admin/sections/property_fields.php:21
+#: admin/sections/search_fields.php:11
+#: libs/widgets/contact_widget.php:51
+#: libs/widgets/search_widget.php:35
+#: submit-property.php:414
+#: templates/filter_properties.php:86
+#@ reales
+msgid "Country"
+msgstr "Land"
+
+#: admin/sections/filter_fields.php:12
+#: admin/sections/property_fields.php:20
+#: admin/sections/search_fields.php:12
+#: submit-property.php:402
+#@ reales
+msgid "County/State"
+msgstr "Land"
+
+#: admin/sections/filter_fields.php:13
+#: admin/sections/property_fields.php:15
+#: admin/sections/search_fields.php:13
+#: libs/widgets/contact_widget.php:39
+#: libs/widgets/search_widget.php:71
+#: libs/widgets/search_widget.php:315
+#: submit-property.php:305
+#: templates/filter_properties.php:111
+#: templates/search_properties.php:98
+#@ reales
+msgid "City"
+msgstr "By"
+
+#: admin/sections/filter_fields.php:14
+#: admin/sections/property_fields.php:18
+#: admin/sections/search_fields.php:14
+#: libs/widgets/search_widget.php:89
+#: libs/widgets/search_widget.php:329
+#: submit-property.php:376
+#: templates/filter_properties.php:244
+#: templates/search_properties.php:106
+#@ reales
+msgid "Neighborhood"
+msgstr ""
+
+#: admin/sections/filter_fields.php:15
+#: admin/sections/property_fields.php:13
+#: admin/sections/search_fields.php:15
+#: functions.php:523
+#: libs/widgets/featured_properties_widget.php:45
+#: libs/widgets/recent_properties_widget.php:45
+#: libs/widgets/search_widget.php:107
+#: libs/widgets/search_widget.php:341
+#: libs/widgets/search_widget.php:344
+#: submit-property.php:267
+#: submit-property.php:273
+#: submit-property.php:276
+#: templates/filter_properties.php:157
+#: templates/filter_properties.php:159
+#: templates/filter_properties.php:162
+#: templates/search_properties.php:112
+#: templates/search_properties.php:115
+#@ reales
+msgid "Category"
+msgstr "Landsdel"
+
+#: admin/sections/filter_fields.php:16
+#: admin/sections/property_fields.php:14
+#: admin/sections/search_fields.php:16
+#: libs/class-tgm-plugin-activation.php:2443
+#: libs/widgets/featured_properties_widget.php:68
+#: libs/widgets/recent_properties_widget.php:68
+#: libs/widgets/search_widget.php:125
+#: libs/widgets/search_widget.php:360
+#: libs/widgets/search_widget.php:363
+#: submit-property.php:285
+#: submit-property.php:291
+#: submit-property.php:294
+#: templates/filter_properties.php:171
+#: templates/filter_properties.php:173
+#: templates/filter_properties.php:176
+#: templates/membership_plans.php:57
+#: templates/search_properties.php:125
+#: templates/search_properties.php:128
+#@ reales
+#@ tgmpa
+msgid "Type"
+msgstr "Medlemskab"
+
+#: admin/sections/filter_fields.php:17
+#: admin/sections/property_fields.php:11
+#: admin/sections/search_fields.php:17
+#: libs/properties.php:985
+#: libs/widgets/search_widget.php:143
+#: submit-property.php:436
+#@ reales
+msgid "Price"
+msgstr "Pris"
+
+#: admin/sections/filter_fields.php:18
+#: admin/sections/property_fields.php:22
+#: admin/sections/search_fields.php:18
+#: libs/widgets/search_widget.php:161
+#: property-search-results.php:107
+#: submit-property.php:458
+#@ reales
+msgid "Area"
+msgstr "Antal gæster"
+
+#: admin/sections/filter_fields.php:19
+#: admin/sections/property_fields.php:23
+#: admin/sections/search_fields.php:19
+#: functions.php:526
+#: libs/properties.php:1032
+#: libs/widgets/search_widget.php:179
+#: libs/widgets/search_widget.php:431
+#: libs/widgets/search_widget.php:434
+#: property-search-results.php:101
+#: single-property.php:321
+#: submit-property.php:475
+#: templates/filter_properties.php:192
+#: templates/filter_properties.php:194
+#: templates/filter_properties.php:197
+#: templates/search_properties.php:166
+#: templates/search_properties.php:169
+#@ reales
+msgid "Bedrooms"
+msgstr "Soveværelser"
+
+#: admin/sections/filter_fields.php:20
+#: admin/sections/property_fields.php:24
+#: admin/sections/search_fields.php:20
+#: functions.php:527
+#: libs/properties.php:1035
+#: libs/widgets/search_widget.php:197
+#: libs/widgets/search_widget.php:452
+#: libs/widgets/search_widget.php:455
+#: property-search-results.php:104
+#: single-property.php:326
+#: submit-property.php:488
+#: templates/filter_properties.php:208
+#: templates/filter_properties.php:210
+#: templates/filter_properties.php:213
+#: templates/search_properties.php:181
+#: templates/search_properties.php:184
+#@ reales
+msgid "Bathrooms"
+msgstr "Bad"
+
+#: admin/sections/filter_fields.php:40
+#: admin/sections/filter_fields.php:61
+#: admin/sections/filter_fields.php:82
+#: admin/sections/filter_fields.php:103
+#: admin/sections/filter_fields.php:131
+#: admin/sections/filter_fields.php:152
+#: admin/sections/filter_fields.php:173
+#: admin/sections/filter_fields.php:194
+#: admin/sections/filter_fields.php:215
+#: admin/sections/filter_fields.php:236
+#: admin/sections/filter_fields.php:257
+#: admin/sections/filter_fields.php:278
+#: admin/sections/membership.php:42
+#: admin/sections/property_fields.php:45
+#: admin/sections/property_fields.php:66
+#: admin/sections/property_fields.php:102
+#: admin/sections/property_fields.php:138
+#: admin/sections/property_fields.php:174
+#: admin/sections/property_fields.php:210
+#: admin/sections/property_fields.php:261
+#: admin/sections/property_fields.php:297
+#: admin/sections/property_fields.php:333
+#: admin/sections/property_fields.php:369
+#: admin/sections/property_fields.php:405
+#: admin/sections/property_fields.php:441
+#: admin/sections/property_fields.php:477
+#: admin/sections/property_fields.php:513
+#: admin/sections/property_fields.php:534
+#: admin/sections/property_fields.php:555
+#: admin/sections/property_fields.php:576
+#: admin/sections/search_fields.php:39
+#: admin/sections/search_fields.php:60
+#: admin/sections/search_fields.php:81
+#: admin/sections/search_fields.php:102
+#: admin/sections/search_fields.php:123
+#: admin/sections/search_fields.php:144
+#: admin/sections/search_fields.php:165
+#: admin/sections/search_fields.php:186
+#: admin/sections/search_fields.php:207
+#: admin/sections/search_fields.php:228
+#: admin/sections/search_fields.php:249
+#: libs/widgets/search_widget.php:41
+#: libs/widgets/search_widget.php:59
+#: libs/widgets/search_widget.php:77
+#: libs/widgets/search_widget.php:95
+#: libs/widgets/search_widget.php:113
+#: libs/widgets/search_widget.php:131
+#: libs/widgets/search_widget.php:149
+#: libs/widgets/search_widget.php:167
+#: libs/widgets/search_widget.php:185
+#: libs/widgets/search_widget.php:203
+#@ reales
+msgid "disabled"
+msgstr "deaktiver"
+
+#: admin/sections/filter_fields.php:45
+#: admin/sections/filter_fields.php:66
+#: admin/sections/filter_fields.php:87
+#: admin/sections/filter_fields.php:108
+#: admin/sections/filter_fields.php:136
+#: admin/sections/filter_fields.php:157
+#: admin/sections/filter_fields.php:178
+#: admin/sections/filter_fields.php:199
+#: admin/sections/filter_fields.php:220
+#: admin/sections/filter_fields.php:241
+#: admin/sections/filter_fields.php:262
+#: admin/sections/filter_fields.php:283
+#: admin/sections/property_fields.php:50
+#: admin/sections/property_fields.php:71
+#: admin/sections/property_fields.php:107
+#: admin/sections/property_fields.php:143
+#: admin/sections/property_fields.php:179
+#: admin/sections/property_fields.php:215
+#: admin/sections/property_fields.php:266
+#: admin/sections/property_fields.php:302
+#: admin/sections/property_fields.php:338
+#: admin/sections/property_fields.php:374
+#: admin/sections/property_fields.php:410
+#: admin/sections/property_fields.php:446
+#: admin/sections/property_fields.php:482
+#: admin/sections/property_fields.php:518
+#: admin/sections/property_fields.php:539
+#: admin/sections/property_fields.php:560
+#: admin/sections/property_fields.php:581
+#: admin/sections/search_fields.php:44
+#: admin/sections/search_fields.php:65
+#: admin/sections/search_fields.php:86
+#: admin/sections/search_fields.php:107
+#: admin/sections/search_fields.php:128
+#: admin/sections/search_fields.php:149
+#: admin/sections/search_fields.php:170
+#: admin/sections/search_fields.php:191
+#: admin/sections/search_fields.php:212
+#: admin/sections/search_fields.php:233
+#: admin/sections/search_fields.php:254
+#: libs/widgets/search_widget.php:46
+#: libs/widgets/search_widget.php:64
+#: libs/widgets/search_widget.php:82
+#: libs/widgets/search_widget.php:100
+#: libs/widgets/search_widget.php:118
+#: libs/widgets/search_widget.php:136
+#: libs/widgets/search_widget.php:154
+#: libs/widgets/search_widget.php:172
+#: libs/widgets/search_widget.php:190
+#: libs/widgets/search_widget.php:208
+#@ reales
+msgid "enabled"
+msgstr "aktiver"
+
+#: admin/sections/general.php:9
+#: admin/settings.php:182
+#@ reales
+msgid "General Settings"
+msgstr "Indstillinger"
+
+#: admin/sections/general.php:10
+#@ reales
+msgid "Logo"
+msgstr ""
+
+#: admin/sections/general.php:11
+#@ reales
+msgid "App Logo (32x32px)"
+msgstr ""
+
+#: admin/sections/general.php:12
+#@ reales
+msgid "Favicon"
+msgstr ""
+
+#: admin/sections/general.php:14
+#@ reales
+msgid "Price format"
+msgstr ""
+
+#: admin/sections/general.php:16
+#@ reales
+msgid "Currency Symbol"
+msgstr "Valuta symbol"
+
+#: admin/sections/general.php:17
+#@ reales
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: admin/sections/general.php:18
+#@ reales
+msgid "Max price for properties filter"
+msgstr "Maks pris for lokale filter"
+
+#: admin/sections/general.php:19
+#@ reales
+msgid "Measurement Unit"
+msgstr "Mål enhed"
+
+#: admin/sections/general.php:20
+#@ reales
+msgid "Max area value for properties filter"
+msgstr ""
+
+#: admin/sections/general.php:22
+#@ reales
+msgid "Front-end property publish without admin approval"
+msgstr ""
+
+#: admin/sections/general.php:340
+#@ reales
+msgid "before"
+msgstr ""
+
+#: admin/sections/general.php:345
+#@ reales
+msgid "after"
+msgstr "efter"
+
+#: admin/sections/general.php:365
+#@ reales
+msgid "sq ft"
+msgstr "gæster"
+
+#: admin/sections/general.php:365
+#@ reales
+msgid "sq m"
+msgstr "gæster"
+
+#: admin/sections/gmaps.php:9
+#: admin/settings.php:202
+#@ reales
+msgid "Google Maps"
+msgstr ""
+
+#: admin/sections/gmaps.php:10
+#@ reales
+msgid "Google maps API key"
+msgstr ""
+
+#: admin/sections/gmaps.php:11
+#@ reales
+msgid "Google maps default latitude"
+msgstr ""
+
+#: admin/sections/gmaps.php:12
+#@ reales
+msgid "Google maps default longitude"
+msgstr ""
+
+#: admin/sections/gmaps.php:13
+#@ reales
+msgid "Google maps default zoom level"
+msgstr ""
+
+#: admin/sections/membership.php:9
+#: admin/settings.php:252
+#@ reales
+msgid "Membership and Payment"
+msgstr "Medlemskab og betaling"
+
+#: admin/sections/membership.php:10
+#@ reales
+msgid "PayPal paid submission"
+msgstr ""
+
+#: admin/sections/membership.php:11
+#@ reales
+msgid "Payment currency"
+msgstr ""
+
+#: admin/sections/membership.php:12
+#@ reales
+msgid "Property submission price"
+msgstr ""
+
+#: admin/sections/membership.php:13
+#@ reales
+msgid "Featured property submission price"
+msgstr "Premium priser"
+
+#: admin/sections/membership.php:14
+#@ reales
+msgid "Number of free submissions"
+msgstr ""
+
+#: admin/sections/membership.php:15
+#@ reales
+msgid "Unlimited free submissions"
+msgstr "Ubegrænset gratis oprettelser"
+
+#: admin/sections/membership.php:16
+#@ reales
+msgid "Number of free featured submissions"
+msgstr ""
+
+#: admin/sections/membership.php:17
+#@ reales
+msgid "PayPal API version"
+msgstr ""
+
+#: admin/sections/membership.php:18
+#@ reales
+msgid "PayPal Client ID"
+msgstr ""
+
+#: admin/sections/membership.php:19
+#@ reales
+msgid "PayPal Client Secret Key"
+msgstr ""
+
+#: admin/sections/membership.php:20
+#@ reales
+msgid "PayPal API username"
+msgstr ""
+
+#: admin/sections/membership.php:21
+#@ reales
+msgid "PayPal API password"
+msgstr ""
+
+#: admin/sections/membership.php:22
+#@ reales
+msgid "PayPal API signature"
+msgstr ""
+
+#: admin/sections/membership.php:23
+#@ reales
+msgid "PayPal receiving e-mail"
+msgstr ""
+
+#: admin/sections/membership.php:47
+#@ reales
+msgid "per listing"
+msgstr "Pr. lokale oprettelse"
+
+#: admin/sections/membership.php:52
+#@ reales
+msgid "membership"
+msgstr "medlemskab"
+
+#: admin/sections/membership.php:161
+#@ reales
+msgid "test"
+msgstr ""
+
+#: admin/sections/membership.php:166
+#@ reales
+msgid "live"
+msgstr ""
+
+#: admin/sections/property_fields.php:9
+#: admin/settings.php:222
+#@ reales
+msgid "Property Fields"
+msgstr ""
+
+#: admin/sections/property_fields.php:12
+#: libs/properties.php:1041
+#: single-property.php:396
+#: submit-property.php:248
+#@ reales
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: admin/sections/property_fields.php:16
+#@ reales
+msgid "Coordinates"
+msgstr ""
+
+#: admin/sections/property_fields.php:19
+#: submit-property.php:390
+#@ reales
+msgid "Zip Code"
+msgstr "Postnummer"
+
+#: admin/sections/property_fields.php:25
+#: single-property.php:461
+#: templates/floor_plans_upload.php:14
+#@ reales
+msgid "Floor Plans"
+msgstr "Etager"
+
+#: admin/sections/property_fields.php:26
+#@ reales
+msgid "Video"
+msgstr ""
+
+#: admin/sections/property_fields.php:81
+#: admin/sections/property_fields.php:117
+#: admin/sections/property_fields.php:153
+#: admin/sections/property_fields.php:189
+#: admin/sections/property_fields.php:225
+#: admin/sections/property_fields.php:276
+#: admin/sections/property_fields.php:312
+#: admin/sections/property_fields.php:348
+#: admin/sections/property_fields.php:384
+#: admin/sections/property_fields.php:420
+#: admin/sections/property_fields.php:456
+#: admin/sections/property_fields.php:492
+#@ reales
+msgid "not required"
+msgstr "ikke krævet"
+
+#: admin/sections/property_fields.php:86
+#: admin/sections/property_fields.php:122
+#: admin/sections/property_fields.php:158
+#: admin/sections/property_fields.php:194
+#: admin/sections/property_fields.php:230
+#: admin/sections/property_fields.php:281
+#: admin/sections/property_fields.php:317
+#: admin/sections/property_fields.php:353
+#: admin/sections/property_fields.php:389
+#: admin/sections/property_fields.php:425
+#: admin/sections/property_fields.php:461
+#: admin/sections/property_fields.php:497
+#@ reales
+msgid "required"
+msgstr "krævet"
+
+#: admin/sections/search_fields.php:9
+#: admin/settings.php:232
+#@ reales
+msgid "Search Area Fields"
+msgstr "Søgefelt"
+
+#: admin/settings.php:33
+#@ reales
+msgid "Add new"
+msgstr "Tilføj ny"
+
+#: admin/settings.php:227
+#@ reales
+msgid "Property Custom Fields"
+msgstr ""
+
+#: archive.php:84
+#: author.php:73
+#: index.php:68
+#: search.php:66
+#: templates/related_posts.php:49
+#, php-format
+#@ reales
+msgid "View all posts in %s"
+msgstr "Se alle indlæg i %s"
+
+#: archive.php:101
+#@ reales
+msgid "No posts found."
+msgstr "Inden indlæg fundet"
+
+#: archive.php:107
+#: author.php:97
+#: index.php:92
+#: search.php:89
+#@ reales
+msgid "Older Articles"
+msgstr "Ældre indlæg"
+
+#: archive.php:108
+#: author.php:98
+#: index.php:93
+#: search.php:90
+#@ reales
+msgid "Newer Articles"
+msgstr "Nyere indlæg"
+
+#: comments.php:25
+#@ reales
+msgid "Comments"
+msgstr "Kommentar/spørgsmål"
+
+#: comments.php:52
+#@ reales
+msgid "Older Comments"
+msgstr "Ældre kommentar"
+
+#: comments.php:75
+#@ reales
+msgid "Comments are closed."
+msgstr "Kommentar er ikke muligt"
+
+#: comments.php:107
+#@ reales
+msgid "Leave a Reply"
+msgstr "Skriv en kommentar eller et spørgsmål"
+
+#: comments.php:108
+#, php-format
+#@ reales
+msgid "Leave a Reply to %s"
+msgstr "Svar %s"
+
+#: comments.php:109
+#@ reales
+msgid "Cancel Reply"
+msgstr "Annuler svar"
+
+#: comments.php:110
+#@ reales
+msgid "Post Comment"
+msgstr "Send kommentar"
+
+#: comments.php:124
+#@ reales
+msgid "Your email address will not be published.  "
+msgstr "Din email adresse er ikke synlig"
+
+#: comments.php:111
+#@ reales
+msgid "Comment"
+msgstr "Kommentar/spørgsmål"
+
+#: comments.php:137
+#: contact-page.php:99
+#: libs/properties.php:1113
+#: property-search-results.php:297
+#: single-agent.php:166
+#: single-property.php:566
+#@ reales
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:143
+#: contact-page.php:105
+#: libs/properties.php:1117
+#: single-agent.php:101
+#: single-agent.php:172
+#: single-property.php:572
+#@ reales
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:149
+#@ reales
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: contact-page.php:49
+#@ reales
+msgid "Contact Details"
+msgstr "Kontakt information"
+
+#: contact-page.php:68
+#@ reales
+msgid "Follow Us"
+msgstr "Følg os"
+
+#: contact-page.php:90
+#@ reales
+msgid "Send Us a Message"
+msgstr "Send os en besked"
+
+#: contact-page.php:100
+#: single-agent.php:167
+#: single-property.php:567
+#@ reales
+msgid "Enter your name"
+msgstr "Skriv dit navn"
+
+#: contact-page.php:106
+#: single-agent.php:173
+#: single-property.php:573
+#@ reales
+msgid "Enter your email"
+msgstr "Skriv din e-mail adresse"
+
+#: contact-page.php:113
+#: single-agent.php:184
+#: single-property.php:584
+#@ reales
+msgid "Subject"
+msgstr "Emne"
+
+#: contact-page.php:114
+#: single-agent.php:185
+#: single-property.php:585
+#@ reales
+msgid "Enter the subject"
+msgstr "Skriv emnet"
+
+#: contact-page.php:121
+#: single-agent.php:190
+#: single-property.php:590
+#@ reales
+msgid "Message"
+msgstr "Besked"
+
+#: contact-page.php:122
+#: single-agent.php:191
+#: single-property.php:591
+#@ reales
+msgid "Type your message"
+msgstr "Skriv din besked"
+
+#: contact-page.php:145
+#: functions.php:476
+#: single-agent.php:210
+#: single-property.php:617
+#@ reales
+msgid "Send Message"
+msgstr "Send besked"
+
+#: favourite-properties.php:33
+#: idx-listings.php:20
+#: my-properties.php:36
+#: property-search-results.php:37
+#: property-search-results.php:58
+#: property-search-results.php:269
+#: single-agent.php:46
+#: single-property.php:122
+#: single-property.php:140
+#: single-property.php:533
+#: submit-property.php:122
+#@ reales
+msgid "Loading map..."
+msgstr "Henter kort..."
+
+#: favourite-properties.php:44
+#: favourite-properties.php:174
+#: my-properties.php:47
+#: my-properties.php:277
+#: property-search-results.php:258
+#@ reales
+msgid " Properties found"
+msgstr " lokaler fundet"
+
+#: favourite-properties.php:174
+#: my-properties.php:277
+#: property-search-results.php:258
+#@ reales
+msgid " of "
+msgstr " af "
+
+#: functions.php:56
+#: libs/class-tgm-plugin-activation.php:333
+#@ reales
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:57
+#: libs/class-tgm-plugin-activation.php:334
+#@ reales
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:58
+#: libs/class-tgm-plugin-activation.php:335
+#, php-format
+#@ reales
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:59
+#: libs/class-tgm-plugin-activation.php:336
+#@ reales
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:70
+#: libs/class-tgm-plugin-activation.php:397
+#@ reales
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:71
+#: libs/class-tgm-plugin-activation.php:399
+#: libs/class-tgm-plugin-activation.php:3034
+#@ reales
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:72
+#, php-format
+#@ reales
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:186
+#@ reales
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:187
+#@ reales
+msgid "Left side secondary menu"
+msgstr ""
+
+#: functions.php:426
+#: functions.php:428
+#: functions.php:430
+#: functions.php:432
+#: functions.php:434
+#: functions.php:437
+#@ reales
+msgid "Sending..."
+msgstr "Loader..."
+
+#: functions.php:427
+#: templates/user_menu.php:135
+#: templates/user_menu.php:210
+#: templates/user_menu.php:221
+#: templates/user_menu.php:260
+#@ reales
+msgid "Sign Up"
+msgstr "Opret bruger"
+
+#: functions.php:429
+#: templates/user_menu.php:136
+#: templates/user_menu.php:146
+#: templates/user_menu.php:207
+#: templates/user_menu.php:263
+#@ reales
+msgid "Sign In"
+msgstr "Log ind"
+
+#: functions.php:431
+#: templates/user_menu.php:285
+#@ reales
+msgid "Get New Password"
+msgstr "Få et nyt kodeord"
+
+#: functions.php:433
+#: templates/user_menu.php:298
+#: templates/user_menu.php:313
+#@ reales
+msgid "Reset Password"
+msgstr "Reset kodeord"
+
+#: functions.php:435
+#: templates/user_menu.php:173
+#@ reales
+msgid "Sign In with Facebook"
+msgstr "Log ind med Facebook"
+
+#: functions.php:436
+#@ reales
+msgid "Login cancelled or not fully authorized!"
+msgstr "Log ind blev afbrudt"
+
+#: functions.php:438
+#: templates/user_menu.php:180
+#@ reales
+msgid "Sign In with Google"
+msgstr "Log ind med Google"
+
+#: functions.php:439
+#@ reales
+msgid "Signin cancelled or not fully authorized!"
+msgstr "Log ind blev afbrudt\\\""
+
+#: functions.php:463
+#: single-property.php:616
+#: single-property.php:647
+#: templates/user_menu.php:333
+#@ reales
+msgid "Close"
+msgstr "Luk"
+
+#: functions.php:464
+#@ reales
+msgid "View"
+msgstr "Se"
+
+#: functions.php:468
+#: submit-property.php:611
+#@ reales
+msgid "Update Property"
+msgstr "Opdater lokale"
+
+#: functions.php:470
+#@ reales
+msgid "Saving Property..."
+msgstr "Gemmer lokale..."
+
+#: functions.php:471
+#@ reales
+msgid "Deleting Property..."
+msgstr "Sletter lokale..."
+
+#: functions.php:472
+#@ reales
+msgid "Please wait..."
+msgstr "Vent venligst..."
+
+#: functions.php:473
+#@ reales
+msgid "Setting Property as Featured..."
+msgstr ""
+
+#: functions.php:477
+#@ reales
+msgid "Sending Message..."
+msgstr "Sender besked..."
+
+#: functions.php:482
+#@ reales
+msgid "Updating Profile..."
+msgstr "Opdaterer profil..."
+
+#: functions.php:514
+#@ reales
+msgid "Please set location"
+msgstr "Vælg venligst placering"
+
+#: functions.php:520
+#@ reales
+msgid "Search for..."
+msgstr "Søg efter..."
+
+#: functions.php:522
+#@ reales
+msgid "Location"
+msgstr "Landsdel"
+
+#: functions.php:524
+#: libs/widgets/search_widget.php:380
+#: templates/search_properties.php:139
+#@ reales
+msgid "Min price"
+msgstr "Min. pris"
+
+#: functions.php:525
+#: libs/widgets/search_widget.php:392
+#: templates/search_properties.php:145
+#@ reales
+msgid "Max price"
+msgstr "Max. pris"
+
+#: functions.php:528
+#: templates/search_properties.php:229
+#@ reales
+msgid "Advanced Search"
+msgstr "Advanceret søgning"
+
+#: functions.php:529
+#@ reales
+msgid "Show advanced search options"
+msgstr "Vis advanceret søge muligheder"
+
+#: functions.php:530
+#@ reales
+msgid "Hide advanced search options"
+msgstr "Skjul advancered søge muligheder"
+
+#: functions.php:543
+#: functions.php:567
+#@ reales
+msgid "Are you sure you want to delete this?"
+msgstr "Er du sikker på at du ønsker at slette?"
+
+#: functions.php:553
+#: functions.php:577
+#@ reales
+msgid "Allowed Files"
+msgstr "Tilladte filtyper"
+
+#: functions.php:678
+#: functions.php:707
+#@ reales
+msgid "Show in Slideshow"
+msgstr "Vis i slideshow"
+
+#: functions.php:723
+#@ reales
+msgid "yes"
+msgstr "Ja"
+
+#: functions.php:725
+#@ reales
+msgid "no"
+msgstr "Nej"
+
+#: functions.php:774
+#@ reales
+msgid "Main Widget Area"
+msgstr ""
+
+#: functions.php:776
+#@ reales
+msgid "The main widget area"
+msgstr ""
+
+#: functions.php:784
+#@ reales
+msgid "IDX Homepage Search Widget Area"
+msgstr ""
+
+#: functions.php:786
+#@ reales
+msgid "IDX homepage search form widget area"
+msgstr ""
+
+#: functions.php:794
+#@ reales
+msgid "IDX Properties Page Search Widget Area"
+msgstr ""
+
+#: functions.php:796
+#@ reales
+msgid "IDX properties page search form widget area"
+msgstr ""
+
+#: functions.php:804
+#@ reales
+msgid "1st Footer Widget Area"
+msgstr ""
+
+#: functions.php:806
+#@ reales
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:814
+#@ reales
+msgid "2nd Footer Widget Area"
+msgstr ""
+
+#: functions.php:816
+#@ reales
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:824
+#@ reales
+msgid "3rd Footer Widget Area"
+msgstr ""
+
+#: functions.php:826
+#@ reales
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:834
+#@ reales
+msgid "4th Footer Widget Area"
+msgstr ""
+
+#: functions.php:836
+#@ reales
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: author.php:79
+#: functions.php:871
+#: functions.php:1324
+#: index.php:74
+#: single-property.php:216
+#@ reales
+msgid "Featured"
+msgstr "Premium lokale"
+
+#: functions.php:897
+#: my-properties.php:193
+#: my-properties.php:208
+#: my-properties.php:227
+#: my-properties.php:229
+#: my-properties.php:254
+#@ reales
+msgid "Set as Featured"
+msgstr "Sæt som Premium"
+
+#: functions.php:1017
+#: functions.php:1082
+#, php-format
+#@ reales
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:1020
+#@ reales
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter godkendelse"
+
+#: functions.php:1032
+#: functions.php:1103
+#, php-format
+#@ reales
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: functions.php:1042
+#: functions.php:1109
+#@ reales
+msgid "Edit"
+msgstr "Rediger"
+
+#: functions.php:1221
+#@ reales
+msgid "Views"
+msgstr "Antal kig"
+
+#: functions.php:1293
+#@ reales
+msgid "Payment Status"
+msgstr "Betaling status"
+
+#: functions.php:1431
+#@ reales
+msgid "Sticky"
+msgstr ""
+
+#: functions.php:1436
+#: functions.php:1441
+#@ reales
+msgid ", "
+msgstr ""
+
+#: functions.php:1449
+#, php-format
+#@ reales
+msgid "View all posts by %s"
+msgstr "Se alle indlæg af %s"
+
+#: functions.php:1465
+#, php-format
+#@ reales
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:1511
+#@ reales
+msgid "Home"
+msgstr "Forside"
+
+#: index.php:25
+#@ reales
+msgid "Latest Posts"
+msgstr "Seneste indlæg"
+
+#: author.php:91
+#: index.php:86
+#@ reales
+msgid "No posts found"
+msgstr "Ingen indlæg fundet"
+
+#: libs/class-tgm-plugin-activation.php:398
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:401
+#, php-format
+#@ tgmpa
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:402
+#, php-format
+#@ tgmpa
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:403
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:404
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr "Fjern denne besked"
+
+#: libs/class-tgm-plugin-activation.php:405
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakt administrator for hjælp"
+
+#: libs/class-tgm-plugin-activation.php:2172
+#@ tgmpa
+msgid "Required"
+msgstr "Krævet"
+
+#: libs/class-tgm-plugin-activation.php:2175
+#@ tgmpa
+msgid "Recommended"
+msgstr "Anbefalet"
+
+#: libs/class-tgm-plugin-activation.php:2191
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2194
+#@ tgmpa
+msgid "External Source"
+msgstr "Ekstern kilde"
+
+#: libs/class-tgm-plugin-activation.php:2197
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2214
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2218
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2220
+#: templates/membership_plans.php:61
+#@ tgmpa
+#@ reales
+msgid "Active"
+msgstr "Aktiv"
+
+#: libs/class-tgm-plugin-activation.php:2226
+#@ tgmpa
+msgid "Required Update not Available"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2229
+#@ tgmpa
+msgid "Requires Update"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2232
+#@ tgmpa
+msgid "Update recommended"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2384
+#@ tgmpa
+msgid "Installed version:"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2392
+#@ tgmpa
+msgid "Minimum required version:"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2404
+#@ tgmpa
+msgid "Available version:"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ tgmpa
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2441
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2442
+#@ tgmpa
+msgid "Source"
+msgstr "Kilde"
+
+#: libs/class-tgm-plugin-activation.php:2447
+#@ tgmpa
+msgid "Version"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2448
+#: templates/membership_plans.php:59
+#: templates/membership_plans.php:61
+#@ tgmpa
+#@ reales
+msgid "Status"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2608
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2614
+#@ tgmpa
+msgid "Update"
+msgstr "Opdater"
+
+#: libs/class-tgm-plugin-activation.php:2617
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2648
+#@ tgmpa
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2650
+#@ tgmpa
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2686
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2688
+#@ tgmpa
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3033
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3367
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3369
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3374
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3375
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3376
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3380
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3382
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3383
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/contact_agent.php:35
+#: libs/contact_company.php:31
+#: libs/save_property.php:151
+#@ reales
+msgid "Please retry CAPTCHA"
+msgstr "Genprøv CAPTCHA"
+
+#: libs/contact_agent.php:41
+#: libs/contact_company.php:37
+#@ reales
+msgid "Your message failed to be sent. Please check your fields."
+msgstr "Din besked blev ikke sendt. Tjek dine felter"
+
+#: libs/contact_agent.php:47
+#: libs/contact_agent.php:53
+#@ reales
+msgid "You received the following message from "
+msgstr "Du har modtaget følgende besked fra"
+
+#: libs/contact_agent.php:49
+#@ reales
+msgid "regarding a property you listed: "
+msgstr "I forbindekse med en lokale du har:"
+
+#: libs/contact_agent.php:63
+#: libs/contact_company.php:47
+#, php-format
+#@ reales
+msgid "[%s Message from client] %s"
+msgstr "[%s Besked fra kunde] %s"
+
+#: libs/contact_agent.php:69
+#: libs/contact_company.php:53
+#@ reales
+msgid "Your message was successfully sent."
+msgstr "Din besked blev sendt afsted."
+
+#: libs/contact_agent.php:72
+#: libs/contact_company.php:56
+#@ reales
+msgid "Your message failed to be sent."
+msgstr "Din besked blev ikke sendt afsted."
+
+#: libs/paypal.php:97
+#@ reales
+msgid "Listing payment on "
+msgstr ""
+
+#: libs/paypal.php:108
+#@ reales
+msgid "Upgrade to Featured Listing on "
+msgstr "Opgrader som Premium på"
+
+#: libs/paypal.php:148
+#@ reales
+msgid "Upgrade to Featured Listing"
+msgstr "Opgrader som Premium lokale"
+
+#: libs/paypal.php:157
+#@ reales
+msgid "Listing Payment"
+msgstr "Lokale betaling"
+
+#: libs/paypal.php:165
+#@ reales
+msgid "Listing Payment with Featured option"
+msgstr ""
+
+#: libs/paypal.php:248
+#@ reales
+msgid "membership plan payment on"
+msgstr "Medlemskab betaling på"
+
+#: libs/paypal.php:253
+#@ reales
+msgid "Membership Plan Payment"
+msgstr "Medlemskabs betaling"
+
+#: libs/paypal.php:256
+#@ reales
+msgid "Membership Payment"
+msgstr "Medlemskab betaling"
+
+#: libs/paypal.php:362
+#, php-format
+#@ reales
+msgid "[%s] Listing Upgraded to Featured"
+msgstr "[%s] Opgraderet til Premium lokale"
+
+#: libs/paypal.php:363
+#, php-format
+#@ reales
+msgid "You have a new featured listing on %s."
+msgstr ""
+
+#: libs/paypal.php:365
+#, php-format
+#@ reales
+msgid "[%s] New Paid Submission"
+msgstr "[%s] Ny betaling"
+
+#: libs/paypal.php:366
+#, php-format
+#@ reales
+msgid "You have a new paid submission on %s."
+msgstr ""
+
+#: libs/paypal.php:368
+#: libs/save_property.php:14
+#: libs/save_property.php:27
+#, php-format
+#@ reales
+msgid "Property title: %s"
+msgstr "Lokale titel: %s"
+
+#: libs/paypal.php:369
+#: libs/save_property.php:15
+#: libs/save_property.php:28
+#, php-format
+#@ reales
+msgid "Agent: %s"
+msgstr "Ejer: %s"
+
+#: libs/paypal.php:399
+#, php-format
+#@ reales
+msgid "[%s] Membership Plan Activated"
+msgstr "[%s] Medlemskab aktiveret"
+
+#: libs/paypal.php:400
+#, php-format
+#@ reales
+msgid "You have a new membership plan on %s is activated."
+msgstr ""
+
+#: libs/paypal.php:401
+#, php-format
+#@ reales
+msgid "Membership Type: %s"
+msgstr "Medlemstype: %s"
+
+#: libs/properties.php:879
+#, php-format
+#@ reales
+msgid "Congratulations, %s! Your property \"%s\" has been published."
+msgstr "Tillykke, %s! dit lokale \"%s\" er udgivet på Spotium."
+
+#: libs/properties.php:880
+#, php-format
+#@ reales
+msgid "View: %s"
+msgstr "Antal kig: %s"
+
+#: libs/properties.php:886
+#, php-format
+#@ reales
+msgid "[%s] Property Published: %s"
+msgstr "[%s] Antal lokaler udgivet: %s"
+
+#: libs/save_property.php:13
+#, php-format
+#@ reales
+msgid "A new property was submitted on %s:"
+msgstr "Et nyt lokale var tilføjet på %s:"
+
+#: libs/save_property.php:21
+#, php-format
+#@ reales
+msgid "[%s] Property Submitted"
+msgstr "[%s] Lokaler tilføjet"
+
+#: libs/save_property.php:26
+#, php-format
+#@ reales
+msgid "A property was updated on %s:"
+msgstr "Et lokale var opdateret på %s:"
+
+#: libs/save_property.php:34
+#, php-format
+#@ reales
+msgid "[%s] Property Updated"
+msgstr "[%s] Lokale opdateret"
+
+#: libs/save_property.php:157
+#@ reales
+msgid "Title field is mandatory."
+msgstr "Feltet titel skal udfyldes."
+
+#: libs/save_property.php:161
+#@ reales
+msgid "Price field is mandatory."
+msgstr "Pris skal udfyldes."
+
+#: libs/save_property.php:165
+#@ reales
+msgid "Description field is mandatory."
+msgstr "Beskrivelse skal udfyldes."
+
+#: libs/save_property.php:169
+#@ reales
+msgid "Category field is mandatory."
+msgstr "Landsdel skal udfyldes."
+
+#: libs/save_property.php:173
+#@ reales
+msgid "Type field is mandatory."
+msgstr "Lokaletype skal vælges."
+
+#: libs/save_property.php:177
+#@ reales
+msgid "Coordinates fields are mandatory."
+msgstr ""
+
+#: libs/save_property.php:181
+#@ reales
+msgid "Address field is mandatory."
+msgstr "Adresse skal udfyldes."
+
+#: libs/save_property.php:185
+#@ reales
+msgid "Neighborhood field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:189
+#@ reales
+msgid "Zip Code field is mandatory."
+msgstr "Postnummer skal udfyldes."
+
+#: libs/save_property.php:193
+#@ reales
+msgid "County/State field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:197
+#@ reales
+msgid "Country field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:201
+#@ reales
+msgid "Area field is mandatory."
+msgstr "Antal gæster kapacitet skal udfyldes"
+
+#: libs/save_property.php:205
+#@ reales
+msgid "Upload at least 1 image in gallery."
+msgstr "Upload minimum et billede."
+
+#: libs/save_property.php:211
+#, php-format
+#@ reales
+msgid "%s field is mandatory."
+msgstr "%s skal udfyldes."
+
+#: libs/save_property.php:300
+#: libs/save_property.php:303
+#@ reales
+msgid "The property was successfully saved. Redirecting..."
+msgstr "Lokalet er gemt. Sender dig tilbage…"
+
+#: libs/save_property.php:307
+#@ reales
+msgid "Something went wrong. The property was not saved."
+msgstr "Noget gik galt. Lokalet er ikke gemt."
+
+#: libs/save_property.php:329
+#@ reales
+msgid "The property was successfully deleted. Redirecting..."
+msgstr "Lokalet er slettet. Redirecter..."
+
+#: libs/save_property.php:332
+#@ reales
+msgid "Something went wrong. The property was not deleted."
+msgstr "Noget gik galt. Lokalet kunne ikke slettes."
+
+#: libs/save_property.php:362
+#@ reales
+msgid "The property was successfully upgraded to featured. Redirecting..."
+msgstr "Lokalet er opgraderet til Premium. Sender dig tilbage…"
+
+#: libs/save_property.php:365
+#@ reales
+msgid "Something went wrong. The property was not upgraded."
+msgstr "Noget gik galt. Lokalet blev ikke sat til Premium."
+
+#: libs/save_property.php:395
+#@ reales
+msgid "The property was successfully set as featured. Redirecting..."
+msgstr "Lokalet er nu Premium. Sender dig tilbage…"
+
+#: libs/save_property.php:398
+#@ reales
+msgid "Something went wrong. The property was not set as featured."
+msgstr "Noget gik galt. Lokalet blev ikke sat til Premium."
+
+#: libs/users.php:18
+#, php-format
+#@ reales
+msgid "New user Sign Up on %s:"
+msgstr "Ny bruger tilmeld på %s:"
+
+#: libs/users.php:19
+#: libs/users.php:35
+#: libs/users.php:382
+#, php-format
+#@ reales
+msgid "Username: %s"
+msgstr "Brugernavn: %s"
+
+#: libs/users.php:20
+#, php-format
+#@ reales
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: libs/users.php:26
+#, php-format
+#@ reales
+msgid "[%s] New User Sign Up"
+msgstr "[%s] Ny bruger oprettelse"
+
+#: libs/users.php:33
+#, php-format
+#@ reales
+msgid "Welcome, %s!"
+msgstr "Velkommen, %s!"
+
+#: libs/users.php:34
+#@ reales
+msgid "Thank you for signing up with us. Your new account has been setup and you can now login using the details below."
+msgstr "Tak for din tilmelding. Din bruger oprettet og du kan nu logge ind."
+
+#: libs/users.php:36
+#, php-format
+#@ reales
+msgid "Password: %s"
+msgstr "Kodeord: %s"
+
+#: libs/users.php:37
+#@ reales
+msgid "Thank you,"
+msgstr "Tak,"
+
+#: libs/users.php:38
+#, php-format
+#@ reales
+msgid "%s Team"
+msgstr "%s holdet"
+
+#: libs/users.php:44
+#, php-format
+#@ reales
+msgid "[%s] Your username and password"
+msgstr "[%s] Dit brugernavn og kodeord"
+
+#: libs/users.php:66
+#@ reales
+msgid "Required form fields are empty!"
+msgstr "Krævede felter er tomme!"
+
+#: libs/users.php:70
+#@ reales
+msgid "Username too short. Please enter at least 4 characters!"
+msgstr "Brugernavn er for kort. Minimum 4 karakter!"
+
+#: libs/users.php:74
+#@ reales
+msgid "Username already exists!"
+msgstr "Brugernavn findes allerede!"
+
+#: libs/users.php:78
+#@ reales
+msgid "Invalid Username!"
+msgstr "Ugyldig brugernavn!"
+
+#: libs/users.php:82
+#@ reales
+msgid "Invalid Email!"
+msgstr "Ugyldig e-mail!"
+
+#: libs/users.php:86
+#@ reales
+msgid "Email already exists!"
+msgstr "E-mail findes allerede!"
+
+#: libs/users.php:90
+#: libs/users.php:637
+#@ reales
+msgid "Password too short. Please enter at least 6 characters!"
+msgstr "Kodeordet er for kort. Minimum 6 karakter!"
+
+#: libs/users.php:94
+#: libs/users.php:428
+#: libs/users.php:641
+#@ reales
+msgid "The passwords do not match!"
+msgstr "Kodeorderne passer ikke sammen!"
+
+#: libs/users.php:113
+#: libs/users.php:482
+#: libs/users.php:539
+#@ reales
+msgid "Something went wrong!"
+msgstr "Noget gik galt!"
+
+#: libs/users.php:116
+#@ reales
+msgid "Congratulations! You have successfully signed up."
+msgstr "Tillykke! Du har oprettet en bruger."
+
+#: libs/users.php:292
+#: libs/users.php:447
+#: libs/users.php:504
+#@ reales
+msgid "You are already signed in, redirecting..."
+msgstr "Du er allerede logget ind, sender dig dig videre..."
+
+#: libs/users.php:301
+#: libs/users.php:320
+#@ reales
+msgid "Invalid username or password!"
+msgstr "Ugyldig brugernavn eller kodeord!"
+
+#: libs/users.php:327
+#: libs/users.php:489
+#: libs/users.php:546
+#@ reales
+msgid "Sign in successful, redirecting..."
+msgstr "Godkendt log ind, sender dig videre..."
+
+#: libs/users.php:346
+#@ reales
+msgid "Email field is empty!"
+msgstr "Felt er forkert, prøv igen!"
+
+#: libs/users.php:355
+#@ reales
+msgid "Invalid email address!"
+msgstr "Ugyldig e-mail!"
+
+#: libs/users.php:361
+#@ reales
+msgid "Invalid username!"
+msgstr "Ugyldig brugernavn!"
+
+#: libs/users.php:380
+#@ reales
+msgid "Someone has asked to reset the password for the following site and username."
+msgstr "Nogen har bedt om at forny kodeordet for følgende website og brugernavn."
+
+#: libs/users.php:383
+#@ reales
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr "For at oprette nyt kodeord besøg følgende adresse:"
+
+#: libs/users.php:386
+#@ reales
+msgid "Password Reset Request"
+msgstr "Bed om nyt kodeord"
+
+#: libs/users.php:387
+#@ reales
+msgid "Email failed to send for some unknown reason."
+msgstr "E-mail fejlede med at blive sendt."
+
+#: libs/users.php:390
+#@ reales
+msgid "An email with password reset instructions was sent to you."
+msgstr "En e-mail med instruktioner til nyt kodeord er sent til din e-mail."
+
+#: libs/users.php:411
+#@ reales
+msgid "Password field empty!"
+msgstr "Kodeordet er tomt!"
+
+#: libs/users.php:419
+#: libs/users.php:422
+#@ reales
+msgid "Sorry, the link does not appear to be valid or is expired!"
+msgstr "Beklager, linket ser ud til at være ugyldigt eller udløbet!"
+
+#: libs/users.php:432
+#@ reales
+msgid "Your password has been reset."
+msgstr "Dit nye kodeord er oprettet."
+
+#: libs/users.php:621
+#@ reales
+msgid "First Name field is mandatory."
+msgstr "Fornavn skal udfyldes."
+
+#: libs/users.php:625
+#@ reales
+msgid "Last Name field is mandatory."
+msgstr "Efternavn skal udfyldes."
+
+#: libs/users.php:629
+#@ reales
+msgid "E-mail field is mandatory."
+msgstr "E-mail skal udfyldes."
+
+#: libs/users.php:633
+#@ reales
+msgid "Nickname field is mandatory."
+msgstr "Brugernavn skal udfyldes."
+
+#: libs/users.php:689
+#@ reales
+msgid "Your profile was successfully updated."
+msgstr "Dit profil er opdateret."
+
+#: admin/sections/slider.php:73
+#: libs/widgets/contact_widget.php:27
+#: libs/widgets/featured_agents_widget.php:22
+#: libs/widgets/featured_properties_widget.php:25
+#: libs/widgets/recent_properties_widget.php:25
+#: libs/widgets/search_widget.php:31
+#: libs/widgets/social_widget.php:26
+#: submit-property.php:241
+#@ reales
+msgid "Title"
+msgstr "Titel"
+
+#: libs/widgets/contact_widget.php:43
+#: libs/widgets/search_widget.php:53
+#: libs/widgets/search_widget.php:289
+#: templates/filter_properties.php:101
+#: templates/search_properties.php:74
+#@ reales
+msgid "State/County"
+msgstr ""
+
+#: libs/widgets/contact_widget.php:47
+#@ reales
+msgid "Zip code"
+msgstr "Postnummer"
+
+#: libs/widgets/featured_agents_widget.php:26
+#@ reales
+msgid "Number of agents to show"
+msgstr "Antal af ejere som skal vises"
+
+#: libs/widgets/featured_properties_widget.php:29
+#: libs/widgets/recent_properties_widget.php:29
+#@ reales
+msgid "Number of properties to show"
+msgstr "Antal lokaler som skal vises"
+
+#: libs/widgets/search_widget.php:405
+#: templates/search_properties.php:152
+#@ reales
+msgid "Min area"
+msgstr "Min. område"
+
+#: libs/widgets/search_widget.php:417
+#: templates/search_properties.php:158
+#@ reales
+msgid "Max area"
+msgstr "Maks. område"
+
+#: libs/widgets/social_widget.php:46
+#@ reales
+msgid "Instagram Link"
+msgstr ""
+
+#: my-properties.php:151
+#: single-property.php:379
+#@ reales
+msgid "Edit Property"
+msgstr "Rediger lokale"
+
+#: my-properties.php:152
+#: submit-property.php:616
+#: submit-property.php:619
+#@ reales
+msgid "Delete Property"
+msgstr "Slet lokalet"
+
+#: my-properties.php:164
+#@ reales
+msgid "Published"
+msgstr "Udgivet"
+
+#: my-properties.php:166
+#@ reales
+msgid "Pending for Approval"
+msgstr "Afventer godkendelse"
+
+#: my-properties.php:172
+#@ reales
+msgid "Paid"
+msgstr "Betalt"
+
+#: my-properties.php:174
+#@ reales
+msgid "Payment Required"
+msgstr "Betaling er påkrævet"
+
+#: my-properties.php:193
+#: my-properties.php:227
+#@ reales
+msgid "free left"
+msgstr ""
+
+#: my-properties.php:198
+#@ reales
+msgid "Upgrade to Featured"
+msgstr "Opgrader til Premium"
+
+#: my-properties.php:213
+#: my-properties.php:234
+#: templates/membership_plans.php:140
+#@ reales
+msgid "Pay with PayPal"
+msgstr "Betal med PayPal"
+
+#: my-properties.php:224
+#@ reales
+msgid "Submission price"
+msgstr "Pris for at fremhæve lokale"
+
+#: property-search-results.php:83
+#@ reales
+msgid "Sort by:"
+msgstr "Sorter efter:"
+
+#: property-search-results.php:85
+#: property-search-results.php:95
+#@ reales
+msgid "Newest"
+msgstr "Nyeste"
+
+#: property-search-results.php:97
+#@ reales
+msgid "Price (Lo-Hi)"
+msgstr "Pris (Lav-Høj)"
+
+#: property-search-results.php:98
+#@ reales
+msgid "Price (Hi-Lo)"
+msgstr "Pris (Høj-Lav)"
+
+#: search.php:25
+#, php-format
+#@ reales
+msgid "Search Results for: %s"
+msgstr "Søgeresultat for: %s"
+
+#: search.php:83
+#@ reales
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Beklager, men intet blev fundet. Prøv igen med andre ord."
+
+#: single-agent.php:112
+#: user-account.php:171
+#@ reales
+msgid "Specialities"
+msgstr "Specialiteter"
+
+#: single-agent.php:155
+#: user-account.php:151
+#@ reales
+msgid "About"
+msgstr "Profil"
+
+#: single-agent.php:179
+#: single-property.php:579
+#: user-account.php:180
+#@ reales
+msgid "Enter your phone number"
+msgstr "Udfyld telefonnummer"
+
+#: single-property.php:381
+#: single-property.php:383
+#: single-property.php:558
+#@ reales
+msgid "Contact Agent"
+msgstr "Kontakt ejer"
+
+#: single-property.php:408
+#: single.php:54
+#@ reales
+msgid "Share on Facebook"
+msgstr "Del på Facebook"
+
+#: single-property.php:413
+#: single.php:59
+#@ reales
+msgid "Share on Twitter"
+msgstr "Del på Twitter"
+
+#: single-property.php:418
+#: single.php:64
+#@ reales
+msgid "Share on Google+"
+msgstr "Del på Google+"
+
+#: libs/properties.php:1065
+#: single-property.php:481
+#@ reales
+msgid "Additional Information"
+msgstr "Ekstra informationer"
+
+#: libs/properties.php:1087
+#: single-property.php:507
+#@ reales
+msgid "No additional information."
+msgstr "Ingen ekstra informationer"
+
+#: single.php:97
+#: templates/post_hero.php:33
+#@ reales
+msgid "Previous article"
+msgstr "Tidligere indlæg"
+
+#: single.php:104
+#: templates/post_hero.php:39
+#@ reales
+msgid "Next article"
+msgstr "Næste indlæg"
+
+#: submit-property.php:141
+#@ reales
+msgid "Please note that this is a paid submission."
+msgstr "Bemærk at dette er et betalt lokale."
+
+#: submit-property.php:148
+#@ reales
+msgid "Standard property"
+msgstr "Standard lokale"
+
+#: submit-property.php:151
+#@ reales
+msgid "Free"
+msgstr "Gratis"
+
+#: submit-property.php:157
+#@ reales
+msgid "Free included"
+msgstr "Antal gratis lokaler"
+
+#: submit-property.php:157
+#@ reales
+msgid "unlimited"
+msgstr "ubegrænset"
+
+#: submit-property.php:160
+#: submit-property.php:172
+#@ reales
+msgid "Free submissions left"
+msgstr "Antal gratis featured lokaler tilbage"
+
+#: submit-property.php:167
+#@ reales
+msgid "Featured property"
+msgstr "Premium lokaler"
+
+#: submit-property.php:242
+#@ reales
+msgid "Enter property title"
+msgstr "Udfyld titel for lokalet"
+
+#: submit-property.php:328
+#@ reales
+msgid "Enter a city name"
+msgstr "Skriv byens navn"
+
+#: submit-property.php:330
+#@ reales
+msgid "You can drag the marker to property position"
+msgstr "Du kan trække markøren til lokalens placering"
+
+#: submit-property.php:337
+#@ reales
+msgid "Latitude"
+msgstr ""
+
+#: submit-property.php:342
+#@ reales
+msgid "Enter latitude"
+msgstr "Skriv latitude"
+
+#: submit-property.php:347
+#@ reales
+msgid "Longitude"
+msgstr ""
+
+#: submit-property.php:352
+#@ reales
+msgid "Enter longitude"
+msgstr "Skriv longitude"
+
+#: submit-property.php:367
+#@ reales
+msgid "Enter address"
+msgstr "Skriv adresse"
+
+#: submit-property.php:368
+#@ reales
+msgid "Place pin by address"
+msgstr "Placer ikon på adressen"
+
+#: submit-property.php:381
+#: templates/filter_properties.php:245
+#@ reales
+msgid "Enter neighborhood"
+msgstr ""
+
+#: submit-property.php:395
+#@ reales
+msgid "Enter zip code"
+msgstr "Skriv postnummer"
+
+#: submit-property.php:407
+#@ reales
+msgid "Enter county/state"
+msgstr ""
+
+#: submit-property.php:443
+#@ reales
+msgid "Enter price"
+msgstr "Skriv pris"
+
+#: submit-property.php:449
+#@ reales
+msgid "Price Label (e.g. \"per month\")"
+msgstr " Pris type (fx. \"pr. dag\")"
+
+#: submit-property.php:450
+#@ reales
+msgid "Enter price label"
+msgstr "Indtast pristype"
+
+#: submit-property.php:464
+#@ reales
+msgid "Enter area"
+msgstr "Maks antal"
+
+#: submit-property.php:546
+#@ reales
+msgid "Select"
+msgstr "Vælg"
+
+#: submit-property.php:574
+#@ reales
+msgid "Video source"
+msgstr ""
+
+#: submit-property.php:576
+#: submit-property.php:579
+#@ reales
+msgid "none"
+msgstr "ingen"
+
+#: submit-property.php:580
+#@ reales
+msgid "youtube"
+msgstr ""
+
+#: submit-property.php:581
+#@ reales
+msgid "vimeo"
+msgstr ""
+
+#: submit-property.php:587
+#@ reales
+msgid "Video ID"
+msgstr ""
+
+#: submit-property.php:588
+#@ reales
+msgid "Enter video ID"
+msgstr "Udfyld video-ID"
+
+#: submit-property.php:611
+#@ reales
+msgid "Submit Property"
+msgstr "Tilføj lokale"
+
+#: submit-property.php:614
+#: submit-property.php:618
+#@ reales
+msgid "View Property"
+msgstr "Se lokalet"
+
+#: submit-property.php:626
+#@ reales
+msgid "Your membership plan expired."
+msgstr "Dit medlemskab er udløbet. <a href=bruger-indstillinger/>Klik her</a> for at vælge."
+
+#: submit-property.php:627
+#@ reales
+msgid "Please renew your membership plan if you want to submit new listings."
+msgstr "Forny dit medlemskab for at kunne tilføje nye lokaler."
+
+#: submit-property.php:632
+#@ reales
+msgid "You ran out of available submissions."
+msgstr "Du er løbet tør for antal mulige tilføjelser af lokaler."
+
+#: submit-property.php:633
+#@ reales
+msgid "Please upgrade your membership plan if you want to submit new listings."
+msgstr "Opgrader dit medlemskab hvis du ønsker at tilføje nye lokaler"
+
+#: templates/agent_properties.php:9
+#@ reales
+msgid "Properties Listed by Agent"
+msgstr "Lokaler sorteret efter ejer"
+
+#: templates/agent_properties.php:130
+#@ reales
+msgid "No listed properties found."
+msgstr "Ingen lokaler fundet."
+
+#: templates/avatar_upload.php:9
+#@ reales
+msgid "Avatar Photo"
+msgstr "Profil billede"
+
+#: templates/avatar_upload.php:15
+#@ reales
+msgid "Browse Photos"
+msgstr "Find billeder"
+
+#: templates/blog_carousel.php:53
+#@ reales
+msgid "Featured on Blog"
+msgstr "Premium lokaler på bloggen"
+
+#: templates/blog_carousel.php:56
+#@ reales
+msgid "Read More"
+msgstr "Læs mere"
+
+#: templates/filter_properties.php:64
+#@ reales
+msgid "Filter your results"
+msgstr "Filtrer dit resultat"
+
+#: templates/filter_properties.php:102
+#@ reales
+msgid "Enter state/county"
+msgstr ""
+
+#: templates/filter_properties.php:131
+#@ reales
+msgid "Enter city"
+msgstr "Skriv by"
+
+#: templates/filter_properties.php:141
+#@ reales
+msgid "Price Range"
+msgstr "Prisklasse"
+
+#: templates/filter_properties.php:229
+#@ reales
+msgid "Area Range"
+msgstr "Antal gæster"
+
+#: templates/filter_properties.php:332
+#@ reales
+msgid "Apply Filter"
+msgstr "Se valgte"
+
+#: templates/filter_properties.php:333
+#@ reales
+msgid "Show Advanced Filter Options"
+msgstr "Vis advanveret filter"
+
+#: templates/filter_properties.php:334
+#@ reales
+msgid "Hide Advanced Filter Options"
+msgstr "Skjul advanceret filter"
+
+#: templates/floor_plans_upload.php:20
+#@ reales
+msgid "Browse Plans Images"
+msgstr "Find billeder"
+
+#: templates/gallery_upload.php:12
+#@ reales
+msgid "Image Gallery"
+msgstr "Billede galleri"
+
+#: templates/gallery_upload.php:18
+#@ reales
+msgid "Browse Images"
+msgstr "Tilføj billeder"
+
+#: functions.php:1241
+#: templates/membership_plans.php:16
+#@ reales
+msgid "Membership Plans"
+msgstr "Medlemskab"
+
+#: templates/membership_plans.php:22
+#@ reales
+msgid "You don't have an active membership plan. You have to choose one in order to submit listings."
+msgstr "Du har ikke et aktivt medlemskab. Du skal vælge en først."
+
+#: templates/membership_plans.php:55
+#@ reales
+msgid "Your Current Membership Plan"
+msgstr "Dit medlemskab"
+
+#: templates/membership_plans.php:59
+#@ reales
+msgid "Expired"
+msgstr "Udløbet"
+
+#: templates/membership_plans.php:62
+#@ reales
+msgid "Expires On"
+msgstr "Udløber d."
+
+#: templates/membership_plans.php:65
+#: templates/membership_plans.php:67
+#@ reales
+msgid "Available Listings"
+msgstr "Mulige oprettelser af lokaler"
+
+#: templates/membership_plans.php:65
+#@ reales
+msgid "Unlimited"
+msgstr "Ubegrænset"
+
+#: templates/membership_plans.php:69
+#@ reales
+msgid "Available Featured Listings"
+msgstr "Mulige oprettelser af  Premium lokaler"
+
+#: templates/membership_plans.php:105
+#@ reales
+msgid "days"
+msgstr "dage"
+
+#: templates/membership_plans.php:108
+#@ reales
+msgid "weeks"
+msgstr "uger"
+
+#: templates/membership_plans.php:111
+#@ reales
+msgid "months"
+msgstr "måneder"
+
+#: templates/membership_plans.php:114
+#@ reales
+msgid "years"
+msgstr "år"
+
+#: templates/membership_plans.php:130
+#@ reales
+msgid "Unlimited Listings"
+msgstr "Ubegrænset lokaler"
+
+#: templates/membership_plans.php:132
+#@ reales
+msgid "Listings"
+msgstr "Lokale oprettelser"
+
+#: templates/membership_plans.php:134
+#@ reales
+msgid "Featured Listings"
+msgstr "Premium lokaler"
+
+#: templates/page_error_caption.php:9
+#@ reales
+msgid "404"
+msgstr ""
+
+#: templates/related_posts.php:8
+#@ reales
+msgid "Related Articles"
+msgstr "Relateret indlæg"
+
+#: templates/similar_properties.php:9
+#@ reales
+msgid "Similar Properties"
+msgstr "Lignende lokaler"
+
+#: templates/similar_properties.php:168
+#@ reales
+msgid "No similar properties found."
+msgstr "Ingen lignende lokaler fundet."
+
+#: templates/user_menu.php:105
+#@ reales
+msgid "Favourite Properties"
+msgstr "Favorit lokaler"
+
+#: templates/user_menu.php:125
+#@ reales
+msgid "Account Settings"
+msgstr "Bruger indstillinger"
+
+#: templates/user_menu.php:126
+#@ reales
+msgid "Logout"
+msgstr "Log ud"
+
+#: templates/user_menu.php:185
+#@ reales
+msgid "OR"
+msgstr "ELLER"
+
+#: templates/user_menu.php:188
+#: templates/user_menu.php:232
+#@ reales
+msgid "Username"
+msgstr "Brugernavn"
+
+#: templates/user_menu.php:191
+#: templates/user_menu.php:244
+#@ reales
+msgid "Password"
+msgstr "Kodeord"
+
+#: templates/user_menu.php:196
+#@ reales
+msgid "Remember me"
+msgstr "Husk mig"
+
+#: templates/user_menu.php:199
+#: templates/user_menu.php:255
+#@ reales
+msgid "Forgot password?"
+msgstr "Glemt kodeord?"
+
+#: templates/user_menu.php:210
+#@ reales
+msgid "Don't have an account?"
+msgstr "Har du ikke en bruger?"
+
+#: templates/user_menu.php:228
+#@ reales
+msgid "Register me as agent"
+msgstr "Register mig som lokaleejer"
+
+#: templates/user_menu.php:235
+#: user-account.php:102
+#@ reales
+msgid "First Name"
+msgstr "Navn"
+
+#: templates/user_menu.php:238
+#: user-account.php:108
+#@ reales
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: templates/user_menu.php:241
+#@ reales
+msgid "Email Address"
+msgstr "E-mail"
+
+#: templates/user_menu.php:247
+#: templates/user_menu.php:307
+#@ reales
+msgid "Confirm Password"
+msgstr "Bekræft kodeord"
+
+#: templates/user_menu.php:263
+#@ reales
+msgid "Already a member?"
+msgstr "Allerede medlem?"
+
+#: templates/user_menu.php:274
+#@ reales
+msgid "Forgot Password"
+msgstr "Glemt kodeord"
+
+#: templates/user_menu.php:280
+#@ reales
+msgid "Username or Email address"
+msgstr "Brugernavn eller e-mail"
+
+#: templates/user_menu.php:304
+#: user-account.php:134
+#@ reales
+msgid "New Password"
+msgstr "Nyt kodeord"
+
+#: templates/user_menu.php:309
+#@ reales
+msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+msgstr "Hint: Kodeord bør være mindt 7 karakter langt. For at gøre den stærkere, bruger store og små bogstaver og gerne symboler."
+
+#: user-account.php:96
+#@ reales
+msgid "Manage Profile Information and Password"
+msgstr "Rediger profil og kodeord"
+
+#: user-account.php:103
+#@ reales
+msgid "Enter your first name"
+msgstr "Skriv dit fornavn"
+
+#: user-account.php:109
+#@ reales
+msgid "Enter your last name"
+msgstr "Skriv dit efternavn"
+
+#: user-account.php:116
+#@ reales
+msgid "Nickname"
+msgstr "Brugernavn"
+
+#: user-account.php:117
+#@ reales
+msgid "Enter your nickname"
+msgstr "Skriv dit brugernavn"
+
+#: user-account.php:123
+#@ reales
+msgid "Enter your e-mail address"
+msgstr "Skriv din e-mail"
+
+#: user-account.php:135
+#@ reales
+msgid "Enter your new password"
+msgstr "Skriv dit nye kodeord"
+
+#: user-account.php:140
+#@ reales
+msgid "Repeat New Password"
+msgstr "Skriv kodeordet igen"
+
+#: user-account.php:141
+#@ reales
+msgid "Repeat your new password"
+msgstr "Gentag dit nye kodeord"
+
+#: user-account.php:147
+#@ reales
+msgid "Manage Agent Profile Information"
+msgstr "Rediger udlejerprofil"
+
+#: user-account.php:172
+#@ reales
+msgid "Enter your specialities"
+msgstr ""
+
+#: user-account.php:186
+#@ reales
+msgid "Enter your mobile number"
+msgstr "Skriv dit mobilnummer"
+
+#: user-account.php:192
+#@ reales
+msgid "Enter your Skype ID"
+msgstr "Skriv dit Skype ID"
+
+#: single-property.php:409
+#: user-account.php:199
+#@ reales
+msgid "Facebook"
+msgstr ""
+
+#: user-account.php:200
+#@ reales
+msgid "Enter your Facebook profile URL"
+msgstr "Skriv din Facebook URL"
+
+#: single-property.php:414
+#: user-account.php:205
+#@ reales
+msgid "Twitter"
+msgstr ""
+
+#: user-account.php:206
+#@ reales
+msgid "Enter your Twitter profile URL"
+msgstr "Skriv din Twitter URL"
+
+#: single-property.php:419
+#: user-account.php:213
+#@ reales
+msgid "Google+"
+msgstr ""
+
+#: user-account.php:214
+#@ reales
+msgid "Enter your Google+ profile URL"
+msgstr "Skriv din Google+ URL"
+
+#: single-property.php:423
+#: user-account.php:219
+#@ reales
+msgid "LinkedIn"
+msgstr ""
+
+#: user-account.php:220
+#@ reales
+msgid "Enter your LinkedIn profile URL"
+msgstr "Skriv din LinkedIn URL"
+
+#: user-account.php:231
+#@ reales
+msgid "Update Profile"
+msgstr "Opdater din bruger"
+
+#: functions.php:60
+#: libs/class-tgm-plugin-activation.php:338
+#, php-format
+#@ reales
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:61
+#: libs/class-tgm-plugin-activation.php:343
+#, php-format
+#@ reales
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:62
+#, php-format
+#@ reales
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:63
+#: libs/class-tgm-plugin-activation.php:368
+#, php-format
+#@ reales
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:64
+#: libs/class-tgm-plugin-activation.php:373
+#, php-format
+#@ reales
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:65
+#, php-format
+#@ reales
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:66
+#: libs/class-tgm-plugin-activation.php:353
+#, php-format
+#@ reales
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:67
+#, php-format
+#@ reales
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:68
+#: libs/class-tgm-plugin-activation.php:383
+#@ reales
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:69
+#: libs/class-tgm-plugin-activation.php:393
+#@ reales
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1459
+#, php-format
+#@ reales
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:348
+#, php-format
+#@ reales
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:358
+#, php-format
+#@ reales
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:363
+#, php-format
+#@ reales
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:378
+#, php-format
+#@ reales
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:388
+#@ reales
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:524
+#@ tgmpa
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:525
+#@ tgmpa
+msgid "Update Required"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:639
+#@ tgmpa
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:833
+#: libs/class-tgm-plugin-activation.php:3443
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:940
+#@ tgmpa
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:940
+#: libs/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1121
+#: libs/class-tgm-plugin-activation.php:2833
+#@ tgmpa
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1886
+#, php-format
+#@ tgmpa
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ tgmpa
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2285
+#, php-format
+#@ tgmpa
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:2288
+#, php-format
+#@ tgmpa
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:2291
+#, php-format
+#@ tgmpa
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:2294
+#, php-format
+#@ tgmpa
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:2376
+#@ tgmpa
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2505
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2575
+#@ tgmpa
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2793
+#@ tgmpa
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2819
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: libs/class-tgm-plugin-activation.php:2837
+#: libs/class-tgm-plugin-activation.php:400
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/class-tgm-plugin-activation.php:3375
+#: libs/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3375
+#: libs/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:3381
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libs/widgets/search_widget.php:471
+#: templates/search_properties.php:228
+#@ reales
+msgid "Search"
+msgstr "Søg"
+
+#: admin/sections/appearance.php:26
+#@ reales
+msgid "Disable side map on properties pages"
+msgstr ""
+
+#: admin/sections/custom_css.php:9
+#: admin/sections/custom_css.php:10
+#: admin/settings.php:262
+#@ reales
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/sections/filter_fields.php:10
+#: admin/sections/property_fields.php:10
+#: admin/sections/search_fields.php:10
+#@ reales
+msgid "ID"
+msgstr ""
+
+#: admin/sections/general.php:15
+#@ reales
+msgid "Use decimals for price"
+msgstr ""
+
+#: admin/sections/general.php:21
+#@ reales
+msgid "Maximum number of uploaded photos"
+msgstr "Maksimum antal billeder tilladt"
+
+#: admin/sections/gmaps.php:14
+#@ reales
+msgid "Google maps style"
+msgstr ""
+
+#: admin/sections/gmaps.php:76
+#@ reales
+msgid "Default"
+msgstr ""
+
+#: admin/sections/gmaps.php:77
+#@ reales
+msgid "Light Gray"
+msgstr ""
+
+#: admin/sections/gmaps.php:78
+#@ reales
+msgid "Dark Gray"
+msgstr ""
+
+#: admin/sections/gmaps.php:79
+#@ reales
+msgid "Light Red"
+msgstr ""
+
+#: admin/sections/gmaps.php:80
+#@ reales
+msgid "Dark Red"
+msgstr ""
+
+#: admin/sections/gmaps.php:81
+#@ reales
+msgid "Light Green"
+msgstr ""
+
+#: admin/sections/gmaps.php:82
+#@ reales
+msgid "Dark Green"
+msgstr ""
+
+#: admin/sections/gmaps.php:83
+#@ reales
+msgid "Light Blue"
+msgstr ""
+
+#: admin/sections/gmaps.php:84
+#@ reales
+msgid "Dark Blue"
+msgstr ""
+
+#: admin/sections/gmaps.php:85
+#@ reales
+msgid "Light Yellow"
+msgstr ""
+
+#: admin/sections/gmaps.php:86
+#@ reales
+msgid "Dark Yellow"
+msgstr ""
+
+#: admin/sections/notifications.php:9
+#: admin/settings.php:257
+#@ reales
+msgid "Notifications"
+msgstr ""
+
+#: admin/sections/notifications.php:10
+#@ reales
+msgid "Notify agent when properties are published"
+msgstr ""
+
+#: admin/sections/notifications.php:11
+#@ reales
+msgid "Notify admin when properties are published"
+msgstr ""
+
+#: agents-list.php:153
+#@ reales
+msgid "Next Page"
+msgstr ""
+
+#: agents-list.php:154
+#@ reales
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:480
+#: property-search-results.php:307
+#@ reales
+msgid "Save"
+msgstr ""
+
+#: functions.php:481
+#@ reales
+msgid "Saving..."
+msgstr ""
+
+#: functions.php:486
+#@ reales
+msgid "Loading Searches List..."
+msgstr ""
+
+#: functions.php:487
+#@ reales
+msgid "Searches list empty."
+msgstr ""
+
+#: functions.php:1270
+#@ reales
+msgid "Favourites"
+msgstr ""
+
+#: functions.php:1409
+#@ reales
+msgid "All Countries"
+msgstr ""
+
+#: libs/users.php:710
+#@ reales
+msgid "Please enter a name for your search and try again."
+msgstr ""
+
+#: libs/users.php:723
+#: libs/users.php:730
+#@ reales
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: libs/users.php:726
+#@ reales
+msgid "Your search was successfully saved."
+msgstr ""
+
+#: property-search-results.php:72
+#: property-search-results.php:291
+#@ reales
+msgid "Save Search"
+msgstr ""
+
+#: property-search-results.php:298
+#@ reales
+msgid "Enter a name for your search"
+msgstr ""
+
+#: property-search-results.php:306
+#@ reales
+msgid "Cancel"
+msgstr ""
+
+#: libs/properties.php:974
+#: single-property.php:225
+#: templates/filter_properties.php:76
+#: templates/search_properties.php:61
+#@ reales
+msgid "Property ID"
+msgstr ""
+
+#: single-property.php:405
+#@ reales
+msgid "Share property"
+msgstr ""
+
+#: single-property.php:422
+#: single.php:68
+#@ reales
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: templates/filter_properties.php:77
+#@ reales
+msgid "Enter property ID"
+msgstr ""
+
+#: templates/floor_plans_upload.php:24
+#: templates/gallery_upload.php:22
+#@ reales
+msgid "Maximum number of files:"
+msgstr "Maksimum antal filer"
+
+#: templates/membership_plans.php:138
+#@ reales
+msgid "Activate Plan"
+msgstr "Aktiver"
+
+#: templates/user_menu.php:66
+#@ reales
+msgid "Submit New Property"
+msgstr "Tilføj nyt festlokale"
+
+#: templates/user_menu.php:85
+#@ reales
+msgid "My Properties"
+msgstr "Mine lokaler"
+
+#: templates/user_menu.php:106
+#: templates/user_menu.php:327
+#@ reales
+msgid "My Searches"
+msgstr "Mine søgninger"
+
+#: testimonials-list.php:93
+#@ reales
+msgid "Older Testimonials"
+msgstr ""
+
+#: testimonials-list.php:94
+#@ reales
+msgid "Newer Testimonials"
+msgstr ""
+
+#: admin/sections/amenities.php:17
+#@ reales
+msgid "Add New Amenity"
+msgstr ""
+
+#: admin/sections/amenities.php:21
+#@ reales
+msgid "Amenity ID"
+msgstr ""
+
+#: admin/sections/amenities.php:24
+#@ reales
+msgid "Give the amenity an unique ID (start with a letter)"
+msgstr ""
+
+#: admin/sections/amenities.php:28
+#: admin/sections/amenities.php:60
+#@ reales
+msgid "Amenity label"
+msgstr ""
+
+#: admin/sections/amenities.php:31
+#@ reales
+msgid "This value will be displayed in the interface"
+msgstr ""
+
+#: admin/sections/amenities.php:35
+#: admin/sections/amenities.php:61
+#@ reales
+msgid "Amenity icon"
+msgstr ""
+
+#: admin/sections/amenities.php:38
+#: admin/sections/amenities.php:78
+#@ reales
+msgid "Select an icon"
+msgstr ""
+
+#: admin/sections/amenities.php:53
+#@ reales
+msgid "Add Amenity"
+msgstr ""
+
+#: admin/sections/amenities.php:103
+#@ reales
+msgid "Field ID is mandatory."
+msgstr ""
+
+#: admin/sections/amenities.php:107
+#@ reales
+msgid "Amenity label is mandatory."
+msgstr ""
+
+#: admin/sections/amenities.php:111
+#@ reales
+msgid "Amenity icon is mandatory."
+msgstr ""
+
+#: admin/sections/appearance.php:12
+#@ reales
+msgid "Custom slider autoslide"
+msgstr ""
+
+#: admin/sections/appearance.php:78
+#@ reales
+msgid "Delay time"
+msgstr ""
+
+#: admin/sections/appearance.php:80
+#@ reales
+msgid "miliseconds"
+msgstr ""
+
+#: admin/sections/auth.php:18
+#@ reales
+msgid "Terms and Conditions page URL"
+msgstr ""
+
+#: admin/sections/cities.php:9
+#: admin/settings.php:212
+#@ reales
+msgid "Cities"
+msgstr ""
+
+#: admin/sections/cities.php:19
+#@ reales
+msgid "Add New City"
+msgstr ""
+
+#: admin/sections/cities.php:23
+#: admin/sections/cities.php:49
+#@ reales
+msgid "City ID"
+msgstr ""
+
+#: admin/sections/cities.php:26
+#@ reales
+msgid "Give the city an unique ID (start with a letter)"
+msgstr ""
+
+#: admin/sections/cities.php:30
+#: admin/sections/cities.php:50
+#@ reales
+msgid "City name"
+msgstr ""
+
+#: admin/sections/cities.php:43
+#@ reales
+msgid "Add City"
+msgstr ""
+
+#: admin/sections/cities.php:45
+#@ reales
+msgid "Cities List"
+msgstr ""
+
+#: admin/sections/cities.php:82
+#@ reales
+msgid "City ID is mandatory."
+msgstr ""
+
+#: admin/sections/cities.php:86
+#@ reales
+msgid "City name is mandatory."
+msgstr ""
+
+#: admin/sections/custom_fields.php:61
+#: admin/sections/custom_fields.php:93
+#@ reales
+msgid "Show in search"
+msgstr ""
+
+#: admin/sections/custom_fields.php:70
+#: admin/sections/custom_fields.php:94
+#@ reales
+msgid "Search comparison"
+msgstr ""
+
+#: admin/sections/custom_fields.php:73
+#: admin/sections/custom_fields.php:191
+#: admin/settings.php:43
+#@ reales
+msgid "Equal"
+msgstr ""
+
+#: admin/sections/custom_fields.php:74
+#: admin/sections/custom_fields.php:197
+#: admin/settings.php:44
+#@ reales
+msgid "Greater"
+msgstr ""
+
+#: admin/sections/custom_fields.php:75
+#: admin/sections/custom_fields.php:203
+#: admin/settings.php:45
+#@ reales
+msgid "Smaller"
+msgstr ""
+
+#: admin/sections/custom_fields.php:76
+#: admin/sections/custom_fields.php:209
+#: admin/settings.php:46
+#@ reales
+msgid "Like"
+msgstr ""
+
+#: admin/sections/custom_fields.php:140
+#@ reales
+msgid "Comma separated values"
+msgstr ""
+
+#: admin/sections/filter_fields.php:116
+#@ reales
+msgid "Show in header"
+msgstr ""
+
+#: admin/sections/general.php:23
+#@ reales
+msgid "Enable agent reviews and rating"
+msgstr ""
+
+#: admin/sections/general.php:24
+#@ reales
+msgid "Enable report property"
+msgstr ""
+
+#: admin/sections/property_fields.php:240
+#@ reales
+msgid "google autocomplete"
+msgstr ""
+
+#: admin/sections/property_fields.php:245
+#@ reales
+msgid "custom list"
+msgstr ""
+
+#: admin/sections/slider.php:9
+#: admin/settings.php:197
+#@ reales
+msgid "Homepage Custom Slider"
+msgstr ""
+
+#: admin/sections/slider.php:17
+#@ reales
+msgid "Add New Slide"
+msgstr ""
+
+#: admin/sections/slider.php:21
+#@ reales
+msgid "Slide ID"
+msgstr ""
+
+#: admin/sections/slider.php:24
+#@ reales
+msgid "Give the slide an unique ID (start with a letter)"
+msgstr ""
+
+#: admin/sections/slider.php:28
+#@ reales
+msgid "Slide image"
+msgstr ""
+
+#: admin/sections/slider.php:35
+#@ reales
+msgid "Slide title"
+msgstr ""
+
+#: admin/sections/slider.php:41
+#@ reales
+msgid "Slide subtitle"
+msgstr ""
+
+#: admin/sections/slider.php:47
+#@ reales
+msgid "CTA button text"
+msgstr ""
+
+#: admin/sections/slider.php:53
+#@ reales
+msgid "CTA button link"
+msgstr ""
+
+#: admin/sections/slider.php:66
+#@ reales
+msgid "Add Slide"
+msgstr ""
+
+#: admin/sections/slider.php:68
+#@ reales
+msgid "Slides"
+msgstr ""
+
+#: admin/sections/slider.php:72
+#@ reales
+msgid "Image"
+msgstr ""
+
+#: admin/sections/slider.php:117
+#@ reales
+msgid "Slide ID is mandatory."
+msgstr ""
+
+#: author.php:29
+#@ reales
+msgid "Articles By"
+msgstr ""
+
+#: comments.php:23
+#@ reales
+msgid "Reviews"
+msgstr ""
+
+#: comments.php:50
+#@ reales
+msgid "Older Reviews"
+msgstr ""
+
+#: comments.php:59
+#@ reales
+msgid "Newer Reviews"
+msgstr ""
+
+#: comments.php:61
+#@ reales
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:73
+#@ reales
+msgid "Reviews are closed."
+msgstr ""
+
+#: comments.php:90
+#: single-agent.php:132
+#@ reales
+msgid "Write a Review"
+msgstr ""
+
+#: comments.php:91
+#, php-format
+#@ reales
+msgid "Write a Review to %s"
+msgstr ""
+
+#: comments.php:92
+#@ reales
+msgid "Cancel Review"
+msgstr ""
+
+#: comments.php:93
+#@ reales
+msgid "Post Review"
+msgstr ""
+
+#: comments.php:94
+#@ reales
+msgid "Your review helps others decide on the right agent for them. Please tell others why you recommend this agent."
+msgstr ""
+
+#: comments.php:96
+#@ reales
+msgid "Rate the agent"
+msgstr ""
+
+#: comments.php:163
+#@ reales
+msgid "Sign In and Write a Review"
+msgstr ""
+
+#: functions.php:478
+#: single-property.php:648
+#@ reales
+msgid "Submit"
+msgstr ""
+
+#: functions.php:479
+#@ reales
+msgid "Sending Report..."
+msgstr ""
+
+#: functions.php:488
+#@ reales
+msgid "Click to view the transportation stations"
+msgstr ""
+
+#: functions.php:489
+#@ reales
+msgid "Click to view the supermarkets"
+msgstr ""
+
+#: functions.php:490
+#@ reales
+msgid "Click to view the schools"
+msgstr ""
+
+#: functions.php:491
+#@ reales
+msgid "Click to view the libraries"
+msgstr ""
+
+#: functions.php:492
+#@ reales
+msgid "Click to view the pharmacies"
+msgstr ""
+
+#: functions.php:493
+#@ reales
+msgid "Click to view the hospitals"
+msgstr ""
+
+#: functions.php:844
+#@ reales
+msgid "1st Map View Footer Widget Area"
+msgstr ""
+
+#: functions.php:846
+#@ reales
+msgid "The first map view footer widget area"
+msgstr ""
+
+#: functions.php:854
+#@ reales
+msgid "2nd Map View Footer Widget Area"
+msgstr ""
+
+#: functions.php:856
+#@ reales
+msgid "The second map view footer widget area"
+msgstr ""
+
+#: functions.php:927
+#@ reales
+msgid "Header Video"
+msgstr ""
+
+#: functions.php:953
+#@ reales
+msgid "Video URL"
+msgstr ""
+
+#: functions.php:954
+#@ reales
+msgid "Paste the video URL here"
+msgstr ""
+
+#: functions.php:1085
+#@ reales
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: functions.php:1136
+#@ reales
+msgid "review"
+msgstr ""
+
+#: functions.php:1138
+#@ reales
+msgid "reviews"
+msgstr ""
+
+#: functions.php:1150
+#@ reales
+msgid "ERROR: "
+msgstr ""
+
+#: functions.php:1150
+#@ reales
+msgid "you must rate the agent."
+msgstr ""
+
+#: libs/properties.php:1029
+#@ reales
+msgid "Main features"
+msgstr ""
+
+#: libs/properties.php:1061
+#: single-property.php:451
+#@ reales
+msgid "No amenities."
+msgstr "Ingen faciliteter."
+
+#: libs/properties.php:1110
+#@ reales
+msgid "Agent"
+msgstr ""
+
+#: libs/properties.php:1112
+#: single-agent.php:83
+#: user-account.php:165
+#@ reales
+msgid "Agency"
+msgstr ""
+
+#: libs/report_property.php:19
+#@ reales
+msgid "Please describe a reason."
+msgstr ""
+
+#: libs/report_property.php:24
+#@ reales
+msgid "You received a report regarding this property listing:"
+msgstr ""
+
+#: libs/report_property.php:26
+#@ reales
+msgid "Reason: "
+msgstr ""
+
+#: libs/report_property.php:34
+#, php-format
+#@ reales
+msgid "%s - Property Listing Report"
+msgstr ""
+
+#: libs/report_property.php:40
+#@ reales
+msgid "Your report was successfully submited."
+msgstr ""
+
+#: libs/report_property.php:43
+#@ reales
+msgid "Your report failed to be submited."
+msgstr ""
+
+#: libs/users.php:98
+#@ reales
+msgid "Yoo need to agree with Terms and Conditions"
+msgstr ""
+
+#: libs/users.php:217
+#@ reales
+msgid "Your profile was successfully updated. Redirecting..."
+msgstr "Dit profil er opdateret... Videresender..."
+
+#: libs/widgets/search_widget.php:306
+#: submit-property.php:314
+#: templates/filter_properties.php:117
+#: templates/search_properties.php:88
+#@ reales
+msgid "Select a city"
+msgstr ""
+
+#: single-agent.php:129
+#@ reales
+msgid "Write a review"
+msgstr ""
+
+#: single-property.php:285
+#@ reales
+msgid "Report this property listing"
+msgstr ""
+
+#: single-property.php:288
+#@ reales
+msgid "Print the property page"
+msgstr ""
+
+#: single-property.php:321
+#@ reales
+msgid "Bedroom"
+msgstr ""
+
+#: single-property.php:326
+#@ reales
+msgid "Bathroom"
+msgstr ""
+
+#: single-property.php:628
+#@ reales
+msgid "Report Property Listing"
+msgstr ""
+
+#: single-property.php:636
+#@ reales
+msgid "Reason"
+msgstr ""
+
+#: single-property.php:637
+#@ reales
+msgid "Please describe a reason"
+msgstr ""
+
+#: templates/app_header.php:47
+#@ reales
+msgid "Search by city..."
+msgstr ""
+
+#: templates/user_menu.php:251
+#, php-format
+#@ reales
+msgid "I agree with <a href=\"%s\">Terms and Conditions</a>"
+msgstr ""
+
+#: templates/user_menu.php:347
+#@ reales
+msgid "Agent account needed!"
+msgstr ""
+
+#: user-account.php:166
+#@ reales
+msgid "Enter the agency name"
+msgstr ""
+
+#: user-account.php:233
+#@ reales
+msgid "Become an Agent"
+msgstr "Udlej lokale"
+
